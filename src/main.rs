@@ -18,8 +18,8 @@ fn read_file(filepath: &str) -> Result<BufReader<File>, Box<dyn std::error::Erro
 fn dict_processing(file:BufReader<File>) -> Result<HashMap<String,String>,Box<dyn std::error::Error>>{
     let mut dictionary: HashMap<String, String> = HashMap::new();
     let mut file_w = File::create("streetlinks.txt")?;
-    for line in file.lines(){
-        let street = line?.trim().to_string();
+    let lines:Vec<String> = file.lines().map(|x| x.unwrap().trim().to_string()).collect();
+    for street in lines{
         if !dictionary.contains_key(&street){
             let linka = format!("https://www.google.com/maps/place/{} 23, Lisboa", &street).replace(" ","+");
             dictionary.insert(street.clone(), linka.clone());
@@ -60,10 +60,11 @@ async fn image_scarp(hash_map: &HashMap<String,String>) -> color_eyre::Result<()
     for iter in hash_map.keys(){
         println!("{}",&iter);
         let driver = WebDriver::new("http://localhost:4444", caps.clone()).await?;
+        driver.maximize_window().await?;
         driver.goto(&hash_map[iter]).await?;
         std::thread::sleep(std::time::Duration::from_secs(2));//Прогрузка страницы
         let html = driver.source().await?;
-        let re = Regex::new(r"https://streetviewpixels-pa\.googleapis\.com/v1/thumbnail\?panoid=.+?100").unwrap();
+        let re = Regex::new(r"https://streetviewpixels-pa\.googleapis\.com/v1/thumbnail\?panoid=.+408&h.+?100").unwrap();
     
         let dates: Vec<String> = re.find_iter(&html).map(|m| m.as_str().to_string()).collect();
         for s in dates {
@@ -73,7 +74,7 @@ async fn image_scarp(hash_map: &HashMap<String,String>) -> color_eyre::Result<()
             .bytes().await?;
             let image = image::load_from_memory(&response)?;
             let name = format!("images/{iter}.jpg");
-            let output  =  File::create(&name)?;
+            File::create(&name)?;
             image.save(name).unwrap();
             
         }
