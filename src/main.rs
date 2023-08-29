@@ -34,11 +34,6 @@ fn browser_look()  -> Result<(),Box<dyn std::error::Error>>{
     let file = read_file("streetlinks.txt").expect("E,FNF");
     let mut link = file.lines();
 
-    // for iter in link.{
-    //     webbrowser::open(&link.next().expect("Returned None").expect("Returned Error")).unwrap();
-    //   //    println!("{:?}",link.next()) ;
-    //   }
-
     for iter in 0..50{
       webbrowser::open(&link.next().expect("Returned None").expect("Returned Error")).unwrap();
     //    println!("{:?}",link.next()) ;
