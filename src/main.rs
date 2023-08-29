@@ -73,7 +73,7 @@ async fn image_scarp(hash_map: &HashMap<String,String>) -> color_eyre::Result<()
             let response = reqwest::get(sn).await.unwrap()
             .bytes().await?;
             let image = image::load_from_memory(&response)?;
-            let name = format!("images/{iter}.jpg");
+            let name = format!("../images/{iter}.jpg");
             File::create(&name)?;
             image.save(name).unwrap();
             
