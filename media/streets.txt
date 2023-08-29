@@ -1,0 +1,4299 @@
+Travessa de Santo António		
+Travessa da Paz		
+Rua do Conde		
+Largo do Doutor José de Figueiredo		
+Rua de São Francisco de Borja		
+Rua do Mato Grosso		
+Rua do Vale de Santo António		
+Rua Rui Barbosa		
+Calçada dos Barbadinhos		
+Rua Afonso Domingues		
+Rua Diogo do Couto		
+Rua da Cruz de Santa Apolónia		
+Rua Pedro Alexandrino		
+Calçada da Cruz da Pedra		
+Praça Paiva Couceiro		
+Travessa do Olival à Graça		
+Rua Francisco Gentil Martins		
+Rua Capitão Humberto de Ataíde		
+Rua Capitão José Soares da Encarnação		
+Rua da Senhora da Glória		
+Rua Leite de Vasconcelos		
+Rua de Santa Engrácia		
+Travessa de Santo António à Graça		
+Rua do Cardal da Graça		
+Rua da Bela Vista à Graça		
+Campo de Santa Clara		
+Travessa do Paraíso		
+Rua da Palma		
+Rua das Pretas		
+Rua do Telhal		
+Calçada do Moinho de Vento		
+Campo dos Mártires da Pátria		
+Rua Rodrigues Sampaio		
+Rotunda da Mouzinho de Albuquerque		
+Avenida Mouzinho de Albuquerque		
+Radial de Benfica		
+Rua dos Cortes Reais		
+Rua dos Sapateiros		
+Rua Áurea		
+Rua do Comércio		
+Praça do Município		
+Rua de São Julião		
+Escolas Gerais		
+Rua dos Fanqueiros		
+Rua de São Nicolau		
+Rua da Madalena		
+Rua dos Douradores		
+Rua Nova do Almada		
+Rua do Crucifixo		
+Rua da Fé		
+Praça dos Restauradores		
+Avenida de Madrid		
+Avenida Guerra Junqueiro		
+Avenida de Paris		
+Rua Sebastião Saraiva Lima		
+Calçada do Poço dos Mouros		
+Rua Neves Ferreira		
+Rua Jacinto Nunes		
+Rua da Penha de França		
+Rua Maria		
+Rua do Zaire		
+Rua Forno do Tijolo		
+Rua Cidade de Cardiff		
+Rua Castelo Branco Saraiva		
+Rua Frei Manuel do Cenáculo		
+Rua Frei Manuel do Cenáculo		
+Rua Augusto José Vieira		
+Rua Lopes		
+Rua Sousa Viterbo		
+Rua Braamcamp Freire		
+Rua David Lopes		
+Rua Adolfo Coelho		
+Rua Artur de Paiva		
+Rua Teixeira Pinto		
+Rua Dom Domingos Jardo		
+Rua Paio Peres Correia		
+Rua Dom Fuas Roupinho		
+Rua Joseph Piel		
+Rua Martins Sarmento		
+Rua Visconde de Juromenha		
+Rua Padre Sena Freitas		
+Rua Nery Delgado		
+Rua Estácio da Veiga		
+Rua Conde de Monsaraz		
+Rua Carlos Ribeiro		
+Rua Mestre António Martins		
+Praça António Sardinha		
+Praça Aires de Ornelas		
+Rua Doutor Lacerda e Almeida		
+Travessa do Calado		
+Rua Carrilho Videira		
+Rua António Gonçalves		
+Rua António Gonçalves		
+Rua Cidade de Manchester		
+Rua da Ilha de São Tomé		
+Rua Ilha do Príncipe		
+Rua da Guiné		
+Rua de Macau		
+Rua do Vale de Santo António		
+Rua do Vale de Santo António		
+Rua do Vale de Santo António		
+Avenida Mouzinho de Albuquerque		
+Rua Álvares Fagundes		
+Rua do Barão de Monte Pedral		
+Rua do Alviela		
+Rua José Falcão		
+Rua Pascoal de Melo		
+Rua Francisco Sanches		
+Rua de Sapadores		
+Avenida General Roçadas		
+Rua A		
+Rua de Bartolomeu Costa		
+Rua Henrique Barrilaro Ruas		
+Rua Henrique Barrilaro Ruas		
+Rua Henrique Barrilaro Ruas		
+Rua António Maria Baptista		
+Rua Borges Graínha		
+Rua do Triângulo Vermelho		
+Rua Feio Terenas		
+Rua Nélson de Barros		
+Travessa da Senhora da Glória		
+Rua de São Francisco de Borja		
+Rua Barata Salgueiro		
+Cais da Lingueta		
+Rua do Mirante		
+Calçada do Cardeal		
+Largo de São Julião		
+Rua dos Operários		
+Travessa da Senhora da Glória		
+Rua da Madre de Deus		
+Rua Álvaro Coutinho		
+Rua Damasceno Monteiro		
+Largo do Doutor José de Figueiredo		
+Rua do Mato Grosso		
+Rua do Mato Grosso		
+Rua Washington		
+Rua Rui Barbosa		
+Calçada dos Barbadinhos		
+Rua Fernão de Magalhães		
+Avenida General Roçadas		
+Rua de Sapadores		
+Rua da Bica do Sapato		
+Calçada de Santa Apolónia		
+Rua Teixeira Lopes		
+Travessa de Santo António à Graça		
+Campo de Santa Clara		
+Largo Doutor Bernardino António Gomes (Pai)		
+Largo dos Caminhos de Ferro		
+Rua do Museu de Artilharia		
+Avenida Mouzinho de Albuquerque		
+Rua Nova do Almada		
+Rua Morais Soares		
+Avenida Afonso III		
+Rua Cesário Verde		
+Rua Palmira		
+Rua Cidade de Liverpool		
+Rua Heliodoro Salgado		
+Calçada da Cruz da Pedra		
+Estrada de Chelas		
+Rua Henrique Barrilaro Ruas		
+Rua Cidade de Manchester		
+Rua Antónia Andrade		
+Rua Andrade		
+Avenida 24 de Julho		
+Rua Manuel de Jesus Coelho		
+Rua Fernando Magalhães		
+Rua da Assunção		
+Outeirinho do Mirante		
+Travessa das Freiras		
+Travessa do Conde de Avintes		
+Arco Grande de Cima		
+Rua da Verónica		
+Campo de Santa Clara		
+Campo de Santa Clara		
+Rua C da Quinta do Ferro		
+Travessa do Zagalo		
+Travessa Raposo		
+Rua dos Remédios		
+Beco do Pernabuquel		
+Calçada de São Vicente		
+Travessa de São Vicente		
+Travessa das Mónicas		
+Rua Josefa de Óbidos		
+Rua Josefa de Óbidos		
+Beco das Beatas		
+Rua do Sol à Graça		
+Rua Virgínia		
+Rua de São Gens		
+Rua da Senhora do Monte		
+Travessa da Nazaré		
+Travessa da Pereira		
+Rua Machado de Castro		
+Calçada dos Barbadinhos		
+Rua Afonso Domingues		
+Rua das Olarias		
+Rua dos Lagares		
+Largo das Olarias		
+Travessa do Terreirinho		
+Rua do Terreirinho		
+Eixo Norte-Sul		
+Praça Marechal Humberto Delgado		
+Praça Marquês de Pombal		
+Rua Duque de Palmela		
+Rua Mouzinho da Silveira		
+Rua do Salitre		
+Travessa do Salitre		
+Rua Garrett		
+Praça João do Rio		
+Rua Egas Moniz		
+Rua Actriz Virginia		
+Rua Carlos Mardel		
+Rua Actor Isidoro		
+Rua Abade Faria		
+Rua João de Menezes		
+Rua do Garrido		
+Rua Augusto Machado		
+Praça Pasteur		
+Avenida Fontes Pereira de Melo		
+Praça Duque de Saldanha		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República (Túnel)		
+Avenida da República (Túnel)		
+Avenida Engenheiro Duarte Pacheco		
+Calçada do Sacramento		
+Avenida Pedro Álvares Cabral		
+Largo do Rato		
+Largo do Rato		
+Rua Joshua Benoliel		
+Calçada Bento da Rocha Cabral		
+Rua de Artilharia Um		
+Rua das Amoreiras		
+Rua de São Bento		
+Calçada da Pampulha		
+Rua da Estrela		
+Rua de São Jorge		
+Azinhaga da Fonte do Louro		
+Rua Casimiro Freire		
+Rua Barão de Sabrosa		
+Rua de São Pedro de Alcântara		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Rua José Gomes Ferreira		
+Rua Carlos Alberto da Mota Pinto		
+Rua Carlos Alberto da Mota Pinto		
+Rua Joshua Benoliel		
+Rua Tierno Galvan		
+Praça Francisco Sá Carneiro		
+Avenida Almirante Gago Coutinho		
+Avenida da República		
+Avenida da República		
+Rua Carlos Alberto da Mota Pinto		
+Rua Marquês de Fronteira		
+Rua do Sol ao Rato		
+Rua da Artilharia 1		
+Rua Castilho		
+Rua Dom Francisco Manuel de Melo		
+Rua Padre António Vieira		
+Rua Sampaio e Pina		
+Rua Marquês de Subserra		
+Rua do Cardal de São José		
+Rua do Carrião		
+Rua da Esperança do Cardal		
+Rua da Caridade		
+Rua da Metade		
+Travessa Larga		
+Rua do Passadiço		
+Travessa do Loureiro		
+Travessa das Parreiras		
+Rua do Prior Coutinho		
+Travessa de Santa Marta		
+Travessa do Despacho		
+Rua de São José		
+Calçada de Santo António		
+Rua Nogueira e Sousa		
+Largo do Chiado		
+Largo do Chiado		
+Largo do Chiado		
+Poço do Borratem		
+Praça Dom João da Câmara		
+Rua da Palma		
+Praça da Figueira		
+Praça da Figueira		
+Rua dos Condes de Monsanto		
+Rua da Misericórdia		
+Rua Vítor Cordon		
+Rua dos Duques de Bragança		
+Avenida Almirante Gago Coutinho		
+Praça do Duque da Terceira		
+Rua Serpa Pinto		
+Rua Ivens		
+Rua Capelo		
+Rua da Trindade		
+Avenida Calouste Gulbenkian		
+Avenida Calouste Gulbenkian		
+Avenida Calouste Gulbenkian		
+Avenida 24 de Julho		
+Avenida da Ribeira das Naus		
+Rua Castilho		
+Rua Marquês de Fronteira		
+Avenida Miguel Torga		
+Rua da Fábrica dos Pentes		
+Rua de São Filipe Néri		
+Rua de São Francisco de Sales		
+Travessa da Fábrica das Sedas		
+Rua João Penha		
+Travessa das Amoreiras		
+Rua Professor Sousa da Câmara		
+Rua Aviador Plácido de Abreu		
+Praça de Londres		
+Avenida Marconi		
+Avenida de Roma		
+Avenida Óscar Monteiro Torres		
+Avenida António Augusto de Aguiar		
+Avenida Calouste Gulbenkian		
+Praça de Espanha		
+Avenida Afonso Costa		
+Praça de Espanha		
+Eixo Norte-Sul		
+Eixo Norte-Sul		
+Eixo Norte-Sul		
+Eixo Norte-Sul		
+Avenida dos Combatentes		
+Avenida das Forças Armadas		
+Avenida Duque de Loulé		
+Rua de Dona Estefânia		
+Rua Camilo Castelo Branco		
+Duque de Loulé		
+Rua Camilo Castelo Branco		
+Rua Luciano Cordeiro		
+Rua Bernardo Lima		
+Rua de Andaluz		
+Rua Actor Tasso		
+Rua Eça de Queiroz		
+Rua Bernadim Ribeiro		
+Rua Padre Luís Aparício		
+Largo das Palmeiras		
+Rua Rosa Araújo		
+Rua Rodrigo da Fonseca		
+Rua Júlio César Machado		
+Rua do Vale de Pereiro		
+Rua Nova de São Mamede		
+Rua de Campolide		
+Avenida General Correia Barreto		
+Eixo Norte-Sul		
+Eixo Norte-Sul		
+Eixo Norte-Sul		
+Praça do Duque da Terceira		
+Rua do Conde de Redondo		
+Rua Joaquim Bonifácio		
+Largo de Santa Bárbara		
+Largo de Santa Bárbara		
+Rua Ferreira Lapa		
+Rua Gomes Freire		
+Rua da Cruz da Carreira		
+Largo do Mitelo		
+Avenida Manuel da Maia		
+Travessa das Águas Livres		
+Praça das Amoreiras		
+Rua Domingos Sequeira		
+Rua de Dom Dinis		
+Rua Saraiva de Carvalho		
+Rua Dom João V		
+Rua Silva de Carvalho		
+Rua Maria Ulrich		
+Rua de Campolide		
+Rua de Campolide		
+Campo dos Mártires da Pátria		
+Avenida João XXI		
+Túnel da Avenida João XXI		
+Túnel da Avenida João XXI		
+Largo do Terreiro de Trigo		
+Travessa do Corpo Santo		
+Largo Vitorino Damásio		
+Rua de João de Deus		
+Parada dos Prazeres		
+Rua da Lapa		
+Rua das Praças		
+Rua de São Félix		
+Rua dos Remédios à Lapa		
+Rua de São João da Mata		
+Rua Garcia da Orta		
+Travessa Nova de Santos		
+Rua do Guarda-Mor		
+Rua Vicente Borga		
+Rua Silva Carvalho		
+Rua Almeida e Sousa		
+Rua de Santa Isabel		
+Rua da Arrábida		
+Rua do Sol ao Rato		
+Rua da Páscoa		
+Rua São João Nepomuceno		
+Rua do Cabo		
+Rua de Campo de Ourique		
+Rua de São Joaquim		
+Rua da Estrela		
+Rua dos Navegantes		
+Rua de Buenos Aires		
+Rua de São Domingos		
+Rua de Sant'Ana à Lapa		
+Rua da Imprensa à Estrela		
+Rua Garcia de Orta		
+Rua de São Domingos		
+Rua das Francesinhas		
+Avenida Dom Carlos I		
+Calçada da Estrela		
+Rua Correia Garção		
+Rua de São Bento		
+Rua da Conceição		
+Rua de São Mamede		
+Rua da Padaria		
+Rua das Pedras Negras		
+Rua das Pedras Negras		
+Travessa do Almada		
+Calçada do Carmo		
+Largo da Academia Nacional de Belas Artes		
+Calçada de São Francisco		
+Calçada do Carmo		
+Largo da Trindade		
+Rua da Emenda		
+Rua das Chagas		
+Rua Marechal Saldanha		
+Rua do Almada		
+Rua da Rosa		
+Rua de São Boaventura		
+Rua Luz Soriano		
+Rua da Oliveira ao Carmo		
+Rua da Condessa		
+Rua do Duque		
+Travessa da Trindade		
+Travessa da Glória		
+Rua da Cruz dos Poiais		
+Boqueirão do Duro		
+Rua Cais do Tojo		
+Rua da Moeda		
+Praça Dom Luís I		
+Travessa de São Paulo		
+Calçada Salvador Correia de Sá		
+Rua Alves Redol		
+Rua Ângela Pinto		
+Rua Carlos Mardel		
+Rua Lucinda Simões		
+Rua Eduardo Brazão			
+Rua de José Ricardo		
+Rua Alves Torgo		
+Rua Joaquim Costa		
+Rua Almirante Barroso		
+Rua Actor Taborda		
+Rua de Dona Filipa de Vilhena		
+Rua Francisco Ribeiro (Ribeirinho)		
+Rua Frei Francisco Foreiro		
+Rua Passos Manuel		
+Rua José Estevão		
+Rua Alexandre Braga		
+Travessa da Escola Araújo		
+Rua de Angra do Heroísmo		
+Rua de Ponta Delgada		
+Calçada de Arroios		
+Rua Carlos José Barreiros		
+Rua da Ilha Terceira		
+Rua do Funchal		
+Rua dos Açores		
+Rua Rebelo da Silva		
+Praça Ilha do Faial		
+Praça Ilha do Faial		
+Rua Pinheiro Chagas		
+Rua das Picoas		
+Rua Latino Coelho		
+Rua Sousa Martins		
+Rua Andrade Corvo		
+Rua Martens Ferrão		
+Largo de São Sebastião da Pedreira		
+Rua António Cândido		
+Calçada da Glória		
+Rua das Taipas		
+Rua da Alegria		
+Rua da Mãe D'Água		
+Travessa da Conceição da Glória		
+Rua Cecílio de Sousa		
+Praça do Príncipe Real		
+Rua de O Século		
+Rua da Imprensa Nacional		
+Rua do Monte Olivete		
+Rua Professor Branco Rodrigues		
+Rua Marcos Portugal		
+Rua Luís Fernandes		
+Rua Tenente Raúl Cascais		
+Calçada Engenheiro Miguel Pais		
+Travessa do Monte do Carmo		
+Rua Nova da Piedade		
+Travessa da Piedade		
+Praça do Príncipe Real		
+Rua do Jasmim		
+Rua Manuel Bernardes		
+Rua dos Prazeres		
+Travessa do Abarracamento de Peniche		
+Travessa do Cego		
+Rua das Parreiras		
+Rua da Paz		
+Rua do Vale		
+Rua de Pedro Dias		
+Travessa do Barbosa		
+Rua Custódio Vieira		
+Rua de Infantaria 16		
+Rua Sampaio Bruno		
+Rua Pereira e Sousa		
+Rua Carlos da Maia		
+Rua Correia Teles		
+Rua Azedo Gneco		
+Praça Afonso do Paço		
+Praça Afonso do Paço		
+Rua Tomás da Anunciação		
+Rua do 4 de Infantaria		
+Travessa de Campo de Ourique		
+Rua de Campo de Ourique		
+Rua Bombeiro Catana Ramos		
+Beco da Pedreira da Caneja		
+Travessa do Santo Aleixo		
+Rua Luís Derouet		
+Rua do Patrocínio		
+Travessa do Jardim		
+Rua do Possolo		
+Rua do Borja		
+Travessa das Almas		
+Avenida Infante Santo		
+Largo do Rilvas		
+Largo do Rilvas		
+Travessa do Castro		
+Travessa do Sacramento a Alcântara		
+Rua Ribeiro Sanches		
+Rua do Prior		
+Travessa do Olival a Santos		
+Travessa de Dom Brás		
+Rua do Sacramento à Lapa		
+Rua da Arriaga		
+Rua do Pau de Bandeira		
+Rua de São Caetano		
+Rua do Quelhas		
+Travessa de Santo Ildefonso		
+Rua Doutor Teófilo Braga		
+Travessa da Oliveira a Estrela		
+Travessa do Pinheiro		
+Rua Miguel Lupi		
+Rua do Meio a Lapa		
+Travessa da Bela Vista		
+Calçada do Castelo Picão		
+Rua das Madres		
+Rua da Esperança		
+Rua dos Industriais		
+Rua da Silva		
+Rua dos Mastros		
+Travessa do Terreiro a Santa Catarina		
+Travessa do Caldeira		
+Rua Nova do Loureiro		
+Rua da Vinha		
+Travessa das Mercês		
+Calçada do Tijolo		
+Travessa da Cruz de Soure		
+Rua dos Caetanos		
+Avenida Padre Manuel da Nóbrega		
+Rua Agostinho Lourenço		
+Rua Cervantes		
+Rua David de Sousa		
+Rua Cidade de Bucareste		
+Campo Pequeno		
+Rua Chaby Pinheiro		
+Avenida Júlio Dinis		
+Rua do Arco de Cego		
+Avenida Barbosa du Bocage		
+Avenida Elias Garcia		
+Rua Brito Aranha		
+Rua de São Ciro		
+Travessa do Moinho de Vento		
+Travessa do Moinho de Vento		
+Travessa de São Francisco de Borja		
+Rua do Arco do Chafariz das Terras		
+Rua Abílio Lopes do Rêgo		
+Calçada do Conde de Penafiel		
+Rua do Regedor		
+Largo do Chão do Loureiro		
+Largo de São Cristóvão		
+Beco da Atafona		
+Rua de Santiago		
+Travessa do Funil		
+Rua das Damas		
+Cruzes da Sé		
+Rua do Barão		
+Campo dos Mártires da Pátria		
+Rua Câmara Pestana		
+Rua Manuel Bento de Sousa		
+Rua Manuel Bento de Sousa		
+Rua dos Condes		
+Avenida Miguel Bombarda		
+Avenida Barbosa du Bocage		
+Avenida de Brasília		
+Avenida de Brasília		
+Rua da Prata		
+Rua da Prata		
+Rua da Misericórdia		
+Calçada da Estrela		
+Calçada de São Vicente		
+Largo da Graça		
+Largo de Santos		
+Avenida 24 de Julho		
+Rua Dom Duarte		
+Rua da Betesga		
+Rua Laura Alves		
+Avenida Sidónio Pais		
+Avenida João Crisóstomo		
+Avenida Columbano Bordalo Pinheiro		
+Avenida Columbano Bordalo Pinheiro		
+Rua Filipe Folque		
+Avenida Luís Bívar		
+Rua António Enes		
+Rua Carlos Testa		
+Rua Doutor Nicolau de Bettencourt		
+Avenida Afonso Costa		
+Avenida Marechal Francisco da Costa Gomes		
+Avenida Marechal Francisco Costa Gomes		
+Rua Actor Vale		
+Rua Doutor Oliveira Ramos		
+Rua Actor Joaquim de Almeida		
+Rua 1 ao Túnel do Rego		
+Rua Antero de Quental		
+Rua Capitão Renato Baptista		
+Rua de Rafael de Andrade		
+Rua Nova do Desterro		
+Rua Engenheiro Canto Resende		
+Praça da Alegria		
+Rua da Glória		
+Praça da Alegria		
+Eixo Norte-Sul		
+Rua Tenente Espanca		
+Rua Dom Luís de Noronha		
+Avenida Poeta Mistral		
+Rua Ivone Silva		
+Rua Laura Alves		
+Rua Jorge Afonso		
+Rua Portugal Durão		
+Rua Soeiro Pereira Gomes		
+Rua Veloso Salgado		
+Rua Sousa Lopes		
+Rua Francisco Tomás da Costa		
+Rua Cardeal Mercier		
+Rua de Campolide		
+Avenida José Malhoa		
+Travessa de João de Deus		
+Rua da Saudade		
+Largo do Carmo		
+Largo do Carmo		
+Largo do Carmo		
+Calçada do Conde de Pombeiro		
+Regueirão dos Anjos		
+Calçada do Desterro		
+Rua José António Serrano		
+Travessa da Horta		
+Rua da Academia das Ciências		
+Travessa do Arco a Jesus		
+Travessa do Possolo		
+Rua de São Marçal		
+Praça do Príncipe Real		
+Campo dos Mártires da Pátria		
+Campo dos Mártires da Pátria		
+Rua Padre Francisco		
+Rua Freitas Gazul		
+Praça São João Bosco		
+Rua Alexandre Herculano		
+Rua da Voz do Operário		
+Rua dos Cegos		
+Rua João Anastácio Rosa		
+Avenida Marechal Francisco Costa Gomes		
+Rua João do Nascimento Costa		
+Calçada do Carrascal		
+Praça Sócrates da Costa		
+Calçada da Picheleira		
+Rua Doutor Faria de Vasconcelos		
+Rua Professora Margarida Vieira Mendes		
+Rua Al Berto		
+Rua Al Berto		
+Rua Professora Maria de Lurdes Belchior		
+Rua Al Berto		
+Rua Wanda Ramos		
+Avenida Engenheiro Arantes e Oliveira		
+Avenida Engenheiro Arantes e Oliveira		
+Avenida Vergílio Ferreira		
+Avenida Vergílio Ferreira		
+Avenida Vergílio Ferreira		
+Avenida Vergílio Ferreira		
+Avenida Vergílio Ferreira		
+Avenida Vergílio Ferreira		
+Avenida Vergílio Ferreira		
+Avenida François Mitterrand		
+Avenida do Santo Condestável		
+Avenida Engenheiro Arantes e Oliveira		
+Rua J13		
+Calçada do Teixeira		
+Avenida do Santo Condestável		
+Rua Carlos Botelho		
+Rua da Fábrica de Estamparia		
+Rua da Fábrica das Moagens		
+Rua da Fábrica de Estamparia		
+Rua Miguel de Oliveira		
+Estrada de Marvila		
+Calçada do Grilo		
+Rua Nicolau Tolentino		
+Rua da Ilha do Grilo			
+Rua Dom José de Bragança		
+Rua Dom José de Bragança		
+Largo da Madre de Deus		
+Largo da Madre de Deus		
+Largo da Madre de Deus		
+Rua José da Bateira		
+Rua José da Bateira		
+Rua Marquês de Olhão		
+Rua Actor Augusto de Melo		
+Rua Dom Tomás de Melo Breyner		
+Azinhaga da Bruxa		
+Calçada de Dom Gastão		
+Largo do Marquês de Nisa		
+Rua da Manutenção		
+Calçada do Duque de Lafões		
+Rua de Ovar		
+Avenida Paulo VI		
+Rua de Ovar		
+Rua Engenheiro Cunha Leal		
+Rua de Ovar		
+Praça Eduardo Mondlane		
+Avenida João Paulo II		
+Rua António Gedeão		
+Rua António Gedeão		
+Rua da Quinta do Marquês de Abrantes		
+Rua Eduarda Lapa		
+Rua Padre António Ferreira		
+Rua Mário Botas		
+Rua Luís de Sttau Monteiro		
+Rua Severo Portela		
+Rua Severo Portela		
+Rua Dinah Silveira de Queiroz		
+Rua Pedro de Azevedo		
+Rua Artur Duarte		
+Rua António Gedeão		
+Rua Mário Botas		
+Rua João José Cochofel		
+Avenida Conde de Valbom		
+Avenida Conde Valbom		
+Avenida Casal Ribeiro		
+Rua Aquiles Monteverde		
+Rua General Leman		
+Rua Tomás Cabreira		
+Rua Doutor Álvaro de Castro		
+Rua de São Paulo		
+Largo do Corpo Santo		
+Avenida de Roma		
+Largo de Santa Bárbara		
+Travessa do Desterro		
+Travessa da Cruz do Torel		
+Travessa do Torel		
+Rua Júlio de Andrade		
+Rua Marques da Silva		
+Rua dos Heróis de Quionga		
+Campo dos Mártires da Pátria		
+Campo dos Mártires da Pátria		
+Rua de Santo António dos Capuchos		
+Largo da Anunciada		
+Rua das Portas de Santo Antão		
+Rua Antero de Quental		
+Rua Cardeal Saraiva		
+Rua Cardeal Saraiva		
+Avenida José Malhoa		
+Rua de Campolide		
+Rua de Campolide		
+Rua de Campolide		
+Praça do Duque da Terceira		
+Rua Cardeal Saraiva		
+Rua Cardeal Saraiva		
+Rua Eugénio dos Santos		
+Rua Forno do Tijolo		
+Rua Maria		
+Rua Saraiva de Carvalho		
+Largo do Barão de Quintela		
+Travessa do Cais do Tojo		
+Rua de Campolide		
+Rua Ramalho Ortigão		
+Rua Armando Cortez		
+Rua Armando Cortez		
+Rua Armando Cortez		
+Rua Armando Cortez		
+Rua Eduardo Malta		
+Rua Inácio Pardelhas Sanchez		
+Escadinhas da Barroca		
+Rua do Convento da Encarnação		
+		
+Alto do Carvalhão		
+Calçada dos Mestres		
+Calçada da Quintinha		
+Calçada da Quintinha		
+Calçada da Estação		
+Vila Maria		
+Calçada dos Mestres		
+Rua 12		
+Rua Particular 2		
+Rua 5		
+Rua Vieira Lusitano		
+Rua 10		
+Rua 6		
+Rua 4		
+Rua General Taborda		
+Travessa das Irmãzinhas dos Pobres		
+Rua de Cabo Verde		
+Avenida dos Combatentes		
+Avenida dos Combatentes		
+Avenida dos Combatentes		
+Avenida dos Combatentes		
+Rua Filipe da Mata		
+		
+Rua do Sol a Santa Catarina		
+Rua Dom Francisco D'Eça		
+Rua Rocha Santos		
+Rua Dom Francisco D'Eça		
+Rua Vicente Ribeiro		
+Rua Manuel José da Silva		
+Rua Luís Cadote		
+Rua Lino Helder		
+Rua Rocha Santos		
+Travessa do Fragoso		
+Rua Coronel Ferreira do Amaral		
+Rua Coronel Luna de Oliveira		
+Rua Sabino de Sousa		
+Rua Quatro de Agosto		
+Rua António Luís Inácio		
+Rua Melo Gouveia		
+Rua António Luís Inácio		
+Rua Luís Monteiro		
+Rua dos Baldaques		
+Rua Professor Lima Basto		
+Avenida Madame Curie		
+Rua Basílio Teles		
+Rua Doutor António Granjo		
+Rua Doutor António Martins		
+Rua Basílio Teles		
+Rua Fialho de Almeida		
+Rua André Brun		
+Rua Gervásio Lobato		
+Parada do Alto de São João		
+Rua Doutor Manuel Espírito Santo		
+Rua Doutor Manuel Espírito Santo		
+Rua Doutor Almeida Amaral		
+Avenida Engenheiro Arantes e Oliveira		
+Travessa do Convento das Bernardas		
+Rua dos Remédios à Lapa		
+Calçada do Marquês de Abrantes		
+Largo Honório Barreto		
+		
+Rua Professor Mira Fernandes		
+		
+Alameda Edgar Cardoso		
+		
+Travessa da Amoreira		
+Travessa da Amoreira		
+Rua Santos Pinto		
+Rua Maestro António Taborda		
+Rua Joaquim Casimiro		
+Avenida 5 de Outubro		
+Avenida da República (Túnel)		
+		
+Rua 11		
+Largo do Mastro		
+Rua da Bempostinha		
+Largo do Mitelo		
+Rua Sarmento de Beires		
+Rua Abade Faria		
+Rua Henrique Alves		
+Rua da Cintura do Porto de Lisboa		
+Rua da Cintura do Porto de Lisboa		
+Rua Serpa Pinto		
+Rua Serpa Pinto		
+Travessa do Carmo		
+Praça Dom Luís I		
+Rua Dom Luís I		
+Travessa da Ribeira Nova		
+Rua da Ribeira Nova		
+Travessa do Carvalho		
+Praça Dom Luís I		
+Calçada do Ferragial		
+Rua da Trindade		
+Praça Luís de Camões		
+Beco do Arco Escuro		
+Travessa de Santo António da Sé		
+Largo da Sé		
+Largo de Santo António da Sé		
+Largo José Saramago		
+Largo Doutor António Sousa de Macedo		
+Rua da Alfândega		
+Largo do Corpo Santo		
+Rua da Conceição da Glória		
+Rua da Mesquita		
+Rua de Dona Estefânia		
+Rua de Arroios		
+Rua Rosa Damasceno		
+Alameda Dom Afonso Henriques		
+Avenida Marechal Francisco da Costa Gomes		
+Rua Edith Cavel		
+Rua Carvalho Araújo		
+Rua Cristóvão Falcão		
+		
+Avenida Almirante Barroso		
+		
+Rua Eduardo Brazão		
+Avenida Manuel da Maia		
+Rua dos Açores		
+Rua Veríssimo Sarmento		
+Rua José Acúrcio das Neves		
+Rua Marcelino de Mesquita		
+Rua do Garrido		
+Avenida Marechal Francisco da Costa Gomes		
+Avenida Marechal Francisco da Costa Gomes		
+Largo Mendonça e Costa		
+Rua dos Baldaques		
+Rua de São Sebastião da Pedreira		
+Rua de Santa Marta		
+Rua Tomás Ribeiro		
+Rua Martens Ferrão		
+		
+		
+Rua de Dona Estefânia		
+Rua Gomes Freire		
+Rua Gomes Freire		
+Rua General Garcia Rosado		
+Rua General Farinha Beirão		
+Praça José Fontana		
+Rua General Garcia Rosado		
+Travessa de Dona Estefânia		
+Travessa de Dona Estefânia		
+Estrada dos Prazeres		
+Rua Coronel Ribeiro Viana		
+Rua de São Miguel		
+Rua da Regueira		
+Rua da Regueira		
+Travessa Rebelo da Silva		
+Rua da Ilha do Pico		
+Rua Rebelo da Silva		
+		
+Rua Actor António Cardoso		
+Rua Abade Faria		
+Rua Abade Faria		
+Travessa das Freiras a Arroios		
+Rua Alves Redol		
+Praça das Novas Nações		
+Travessa do Cidadão João Gonçalves		
+Rua Marques da Silva		
+Rua Luís Pinto Moitinho		
+Beco da Maria Luisa		
+Paço da Rainha		
+Rua das Barracas		
+Calçada do Conde de Pombeiro		
+Rua Febo Moniz		
+Rua da Escola do Exército		
+Rua do Benformoso		
+Travessa das Terras do Monte		
+Rua Maria Andrade		
+Rua de Moçambique		
+Rua Maria		
+Largo da Graça		
+Largo da Graça		
+Calçada da Graça		
+Largo da Graça		
+Rua das Beatas		
+Rua da Senhora da Glória		
+Rua da Senhora da Glória		
+Rua da Senhora da Glória		
+Rua Jorge Castilho		
+Rua Abade Faria		
+Rua Alberto Pimentel		
+Rua Alberto Pimentel		
+Rua Nunes Claro		
+Rua Arnaldo Gama		
+Rua Desidério Bessa		
+Rua Bernardo de Passos		
+Rua Tomás Borba		
+Rua Reis Gomes		
+Rua Gomes da Silva		
+Rua Stuart Carvalhais		
+Rua Eduardo Fernandes (Esculápio)		
+Rua Vilhena Barbosa		
+Rua Caetano Alberto		
+Rua Gomes Leal		
+Rua Barbosa Cólen		
+Rua Gomes da Silva		
+Rua Fernando Pedroso		
+Rua Desidério Bessa		
+Rua Brás Pacheco		
+Rua Ladislau Piçarra		
+Rua Xavier Cordeiro		
+Avenida Visconde de Valmor		
+Avenida Visconde de Valmor		
+Avenida Engenheiro Arantes e Oliveira		
+Rua João da Silva		
+Rua Manuel dos Santos		
+		
+Rua Sabino de Sousa		
+Largo Roque Laia		
+Rua Américo Durão		
+Rua Professora Margarida Vieira Mendes		
+Rua Agostinho Lourenço		
+Rua Sarmento de Beires		
+Avenida Afonso Costa		
+Rua Sarmento de Beires		
+Avenida Afonso Costa		
+Largo do Casal Vistoso		
+Largo do Casal Vistoso		
+Rua Actor Taborda		
+Rua Stuart Carvalhais		
+Rua Cardoso de Oliveira		
+Rua Caetano Alberto		
+Rua Caetano Alberto		
+Rua Xavier Cordeiro		
+Rua Xavier Cordeiro		
+Avenida Duque de Ávila		
+Rua de Sapadores		
+Rua Damasceno Monteiro		
+Praça do Chile		
+Rua Morais Soares		
+Rua Morais Soares		
+Praça do Chile		
+Rua Pascoal de Melo		
+Avenida Almirante Reis		
+Rua dos Anjos		
+Rua Andrade		
+Travessa do Benformoso		
+Avenida Defensores de Chaves		
+Avenida Almirante Barroso		
+Avenida Casal Ribeiro		
+Rua Fernão Lopes		
+Rua Fernão Lopes		
+Rua dos Açores		
+Rua dos Açores		
+Rua da Ilha Terceira		
+Rua Nunes Claro		
+Rua Bacelar e Silva		
+Rua Costa Goodolfim		
+Rua Bacelar e Silva		
+Rua Fernando Pedroso		
+Avenida Marconi		
+Avenida Marconi		
+Avenida Marconi		
+Rua Cândido Guerreiro		
+Avenida Marconi		
+Rua Brás Pacheco		
+Rua do Arco do Cego		
+Rua do Arco do Cego		
+		
+Rua Sylvio Rebelo		
+		
+Rua Fernando Pedroso		
+Rua José Inácio de Andrade		
+Rua da Manutenção		
+Travessa da Manutenção		
+Avenida Dom Carlos I		
+Calçada da Estrela		
+Calçada do Poço dos Mouros		
+Alameda de Santo António dos Capuchos		
+Calçada de Santo António		
+Rua Augusto Rosa		
+Largo das Portas do Sol		
+Rua Bartolomeu de Gusmão		
+Rua do Chão da Feira		
+Calçada do Cascão		
+Rua dos Caminhos de Ferro		
+Rua de Santa Apolónia		
+Rua das Janelas Verdes		
+Travessa do Ferreiro		
+Beco da Bolacha		
+Rua da Quintinha		
+Rua Gorgel do Amaral		
+Travessa da Légua da Póvoa		
+Rua Doutor Nicolau de Bettencourt		
+Rua do Marquês de Sá da Bandeira		
+Travessa da Condessa do Rio		
+Rua da Palmeira		
+Travessa de São José		
+Praça das Flores		
+Rua Eduardo Coelho		
+Travessa do Conde de Soure		
+Calçada do Cabra		
+Rua do Paraíso		
+Rua da Bombarda		
+Praça das Flores		
+Rua Possidónio da Silva		
+Calçada Bento Rocha Cabral		
+Rua João Penha		
+Travessa de Santa Quitéria		
+Calçada Ribeiro Santos		
+Rua Armando Cortez		
+Travessa da Palmeira		
+Rua das Gaivotas		
+Largo Trindade Coelho		
+Rua Doutor Luis de Almeida e Albuquerque		
+Rua da Hera		
+Travessa da Hera		
+Rua da Horta Sêca		
+Travessa do Sequeiro		
+Travessa da Laranjeira		
+Travessa da Laranjeira		
+Travessa da Arrochela		
+Travessa da Portuguesa		
+Largo do Barão de Quintela		
+Rua Gustavo de Matos Sequeira		
+Rua Maestro Pedro de Freitas Branco		
+Rua do Noronha		
+Travessa dos Machados		
+Rua de São João da Praça		
+Rua da Adiça		
+Arco Escuro		
+Rua da Pedreira do Fernandinho		
+Rua Dom António Luís de Sousa		
+		
+Calçada dos Sete Moinhos		
+Rua da Bela-Flor		
+Túnel do Rego		
+Rua 1 ao Túnel do Rego		
+Rua dos Ferreiros à Estrela		
+Rua da Cintura do Porto de Lisboa		
+Rua da Cintura do Porto de Lisboa		
+Avenida Infante Santo		
+Rua do Limoeiro		
+Rua do Recolhimento		
+Largo de Santa Cruz do Castello		
+Largo da Rosa		
+Rua do Benformoso		
+Vila Lopes		
+Vila de São João		
+Rua A		
+Rua José António Lopes		
+Calçada de Santa Catarina a Chelas		
+		
+Rua da Manutenção		
+Rua Emília Eduarda		
+Quinta da Curraleira		
+Bairro Belo Horizonte		
+		
+Rua de Cima de Chelas		
+Impasse C à Rua 5/6 ao Vale de Chelas		
+		
+Rua 5/6 ao Vale de Chelas		
+Rua Almirante Sarmento Rodrigues		
+Praça Bernardo Santareno		
+Avenida Carlos Pinhão		
+Rua General Vassalo e Silva		
+Avenida Engenheiro Arantes e Oliveira		
+Praça Bernardo Santareno		
+Calçada da Mouraria		
+Vila Berta		
+Rua Marquês de Fronteira		
+Rua 1		
+Rua 2		
+Rua de Borges Carneiro		
+Travessa da Portuguesa		
+Vila Celeste		
+Vila Lopes		
+Rua Francisco Pedro Curado		
+Vila Cândida		
+Vila Cândida		
+Vila Gadanho		
+Rua Eduardo Costa		
+Rua de Baixo		
+Rua Particular à Rua Castelo Branco Saraiva		
+Rua Professor Celestino da Costa		
+Vila Cândida		
+Calçada das Lajes		
+Avenida General Roçadas		
+Vila Cândida		
+Rua Alto da Eira		
+Vila Cândida		
+Vila Gadanho		
+Rua Francisco Pedro Curado		
+Praça Doutor Ernesto Roma		
+Avenida Sidónio Pais		
+Avenida Sidónio Pais		
+Rua Marquês de Ponte de Lima		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Rua Carlos Mardel		
+Rua Francisco Sanches		
+Avenida Duque de Loulé		
+Costa do Castelo		
+Rua Tierno Galvan		
+Travessa da Procissão		
+		
+Avenida Engenheiro Duarte Pacheco		
+Rua Adelas		
+Avenida Engenheiro Duarte Pacheco		
+Túnel do Marquês		
+Túnel do Marquês		
+		
+Rua Rodrigo da Fonseca		
+Avenida Engenheiro Duarte Pacheco		
+		
+Rua de Santo António da Glória		
+Rua Henriques Nogueira		
+Rua do Alecrim		
+Rua do Alecrim		
+Praça de São Paulo		
+Rua do Alecrim		
+Rua do Alecrim		
+Avenida Fontes Pereira de Melo		
+Rua de Santo António dos Capuchos		
+Avenida de Roma		
+Calçada do Carmo		
+Rua 1º de Dezembro		
+Arco das Portas do Mar		
+Largo Jean Monnet		
+Rua Rodrigues Sampaio		
+Rua Rodrigo da Fonseca		
+Rua Alexandre Herculano		
+Rua Alexandre Herculano		
+Rua da Estrela		
+Rua da Estrela		
+Rua da Estrela		
+Rua da Estrela		
+Rua Pinheiro Chagas		
+Rua Filipe Folque		
+Rua Viriato		
+Rua de Angola		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+Rua de Campolide		
+Rua da Glória		
+Rua da Palmeira		
+Rua António Enes		
+Rua Pedro Nunes		
+Rua do Andaluz		
+Largo das Palmeiras		
+Travessa do Patrocínio		
+Rua dos Navegantes		
+Travessa do Patrocínio		
+Rua Engenheiro Vieira da Silva		
+Praça José Fontana		
+Rua Engenheiro Vieira da Silva		
+Rua do Conde de Redondo		
+Rua Eugénio dos Santos		
+Avenida Duque de Loulé		
+Avenida Duque de Loulé		
+Avenida Duque de Loulé		
+Avenida Duque de Loulé		
+Praça dos Restauradores		
+Avenida da Liberdade		
+Praça dos Restauradores		
+Praça dos Restauradores		
+Praça dos Restauradores		
+Praça dos Restauradores		
+Travessa das Pedras Negras		
+Rua da Bica de Duarte Belo		
+Rua José Acúrcio das Neves		
+Rua Presidente Wilson		
+Rua Capitão Henrique Galvão		
+Avenida Marquês de Tomar		
+Rua Presidente Wilson		
+Avenida Dom Carlos I		
+Rua de São Domingos		
+Avenida Dom Carlos I		
+Largo de Santos-o-Velho		
+Rua da Rosa		
+Avenida Dom Carlos I		
+Rua da Rosa		
+Rua Morais Soares		
+Rua António Pereira Carrilho		
+Rua Ivens		
+Rua do Conde de Redondo		
+Rua Barata Salgueiro		
+Rua Alexandre Herculano		
+Travessa do Enviado de Inglaterra		
+Rua Barata Salgueiro		
+Largo do Chiado		
+Largo do Chiado		
+Rua do Almirante Pessanha		
+Rua António Pedro		
+Avenida Poeta Mistral		
+Avenida Elias Garcia		
+Rua Sousa Lopes		
+Rua Doutor Silva Teles		
+Rua Marquês Sá da Bandeira		
+		
+Largo Azeredo Perdigão		
+Rua Sousa Lopes		
+Rua 1 ao Túnel do Rego		
+Avenida Barbosa du Bocage		
+Rua 1 ao Túnel do Rego		
+Largo Azeredo Perdigão		
+Rua Sousa Lopes		
+Rua da Beneficência		
+Rua Presidente Wilson		
+Avenida Barbosa du Bocage		
+Rua Presidente Wilson		
+Rua Manuel Soares Guedes		
+Beco dos Surradores		
+Rua de São Pedro Mártir		
+Avenida António Augusto de Aguiar		
+Largo de São Sebastião da Pedreira		
+Rua de São Sebastião da Pedreira		
+Rua de Dona Filipa de Vilhena		
+Avenida da República (Túnel)		
+Rua Eiffel		
+Avenida da República		
+Avenida Visconde de Valmor		
+Avenida da República (Túnel)		
+Avenida 5 de Outubro		
+Avenida da Liberdade		
+Praça São João Bosco		
+Rua André Brun		
+Rua Actor Alves da Costa		
+Parada dos Prazeres		
+Avenida Óscar Monteiro Torres		
+Campo Pequeno		
+Campo Pequeno		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Largo das Palmeiras		
+Largo das Palmeiras		
+Largo de Andaluz		
+Largo de Andaluz		
+Avenida Visconde de Valmor		
+Avenida Visconde de Valmor		
+Travessa de Santa Quitéria		
+Beco do Batalha		
+Travessa de Santa Quitéria		
+Rua Particular à Travessa de Santa Quitéria		
+Travessa de José Vaz de Carvalho		
+Rua das Amoreiras		
+Rua das Amoreiras		
+Travessa de São Bernardino		
+Pátio do Sequeiro		
+Travessa de Santana da Cruz		
+Rua do Instituto Bacteriológico		
+Travessa da Cruz do Desterro		
+Rua do Instituto Bacteriológico		
+Rua dos Castelinhos		
+Largo do Mastro		
+Travessa do Meio do Forte		
+Rua do Saco		
+Campo dos Mártires da Pátria		
+Travessa das Salgadeiras		
+Rua do Terreiro do Trigo		
+Rua da Alfândega		
+Rua Cais de Santarém		
+Largo do Chafariz de Dentro		
+Rua do Terreiro do Trigo		
+Rua Luciano Cordeiro		
+Travessa do Hospital		
+Travessa de Gaspar Trigo		
+Largo do Tabelião		
+Calçada Nova do Colégio		
+Beco dos Birbantes		
+Rua Joaquina		
+Travessa da Pena		
+Travessa do Adro		
+Travessa das Amoreiras a Arroios		
+Rua Doutor Almeida Amaral		
+Beco da Barbadela		
+Calçada Agostinho de Carvalho		
+Rua da Palma		
+Largo do Intendente Pina Manique		
+Avenida Almirante Reis		
+Rua da Guía		
+Rua João do Outeiro		
+Rua do Capelão		
+Beco da Oliveira		
+Calçada do Carmo		
+Calçada do Carmo		
+Calçada do Carmo		
+Praça Dom João da Câmara		
+Rua Primeiro de Dezembro		
+Praça das Amoreiras		
+Praça das Amoreiras		
+Praça das Amoreiras		
+Rua da Artilharia 1		
+Rua Rodrigo da Fonseca		
+Alameda Cardeal Cerejeira		
+Rua da Artilharia 1		
+Rua Rodrigo da Fonseca		
+Rua da Artilharia 1		
+Rua Dom Francisco Manuel de Melo		
+Rua Engenheiro Canto Resende		
+Rua Marquês de Subserra		
+Rua Padre António Vieira		
+Rua da Artilharia 1		
+Rua Marquês de Subserra		
+Rua da Artilharia 1		
+Rua Marquês de Fronteira		
+Rua Sampaio e Pina		
+Rua Fernandes da Fonseca		
+Travessa da Bica dos Anjos		
+Travessa do Maldonado		
+Travessa da Cruz aos Anjos		
+Travessa do Forno dos Anjos		
+Rua da Conceição		
+Rua Fernandes da Fonseca		
+Rua Fernandes da Fonseca		
+Largo do Terreirinho		
+Rua do Arco do Marquês de Alegrete		
+Travessa da Mata		
+Praça da Alegria		
+Rua da Conceição da Glória		
+Avenida da Liberdade		
+Praça da Alegria		
+Rua do Cais do Tojo		
+Rua do Cais do Tojo		
+Rua do Olival		
+Avenida de Brasília		
+Avenida Infante Santo		
+Avenida Infante Santo		
+Avenida Infante Santo		
+Rua Tenente Valadim		
+Praça do Duque da Terceira		
+Avenida da Ribeira das Naus		
+Avenida Carlos Pinhão		
+Avenida Carlos Pinhão		
+Avenida Carlos Pinhão		
+Avenida Carlos Pinhão		
+Avenida Mouzinho de Albuquerque		
+Avenida Mouzinho de Albuquerque		
+Avenida Mouzinho de Albuquerque		
+Avenida Mouzinho de Albuquerque		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Arco Grande de Cima		
+Travessa das Merceeiras		
+Rua das Damas		
+Largo do Limoeiro		
+Praça Martim Moniz		
+Travessa do Chão da Feira		
+Regueirão dos Anjos		
+Regueirão dos Anjos		
+Regueirão dos Anjos		
+Regueirão dos Anjos		
+Regueirão dos Anjos		
+Rua Abade Faria		
+Avenida Marechal Francisco da Costa Gomes		
+Avenida Afonso Costa		
+Rua Jorge Castilho		
+Rua Jorge Castilho		
+Rua Abade Faria		
+Rua Francisco Pedro Curado		
+Vila Cândida		
+Avenida Carlos Pinhão		
+Rua de Olivença		
+Rua Professor Mira Fernandes		
+Rua Aquiles Machado		
+Rua da Alfândega		
+Campo de Santa Clara		
+Rua do Poço dos Negros		
+Rua de São Sebastião da Pedreira		
+Rua de São Sebastião da Pedreira		
+Rua Bernadim Ribeiro		
+Rua Ferreira Lapa		
+Travessa do Tarujo		
+Rua Particular 3		
+Calçada da Estação		
+		
+Largo Adelino Amaro da Costa		
+Travessa da Rabicha		
+Calçadinha do Tijolo		
+Calçadinha do Tijolo		
+Travessa dos Remédios		
+Travessa de Santa Marinha		
+Boqueirão da Ponte da Lama		
+Rua A da Quinta do Ferro		
+Beco da Verónica		
+Beco do Vigário		
+Calçadinha do Tijolo		
+Largo Doutor Bernardino António Gomes (Pai)		
+Rua Tenente Viriato Correia de Lacerda		
+Rua do Vigário		
+Rua B da Quinta do Ferro		
+Largo do Outeirinho da Amendoeira		
+Beco da Mó		
+Beco do Forno do Castelo		
+Rua das Escolas Gerais		
+Beco das Olarias		
+Rua de São Miguel		
+Vila Berta		
+Calçada do Menino Deus		
+Beco dos Beguinhos		
+Travessa do Meio		
+Largo Doutor Bernardino António Gomes (Pai)		
+Calçadinha de São Miguel		
+Pátio da Fábrica de Goma		
+Travessa dos Lagares		
+Rua do Espírito Santo		
+Rua Luís Barbosa		
+		
+Rua Celestino Alves		
+Azinhaga da Salgada		
+Rua Carlos José Caldeira		
+		
+Praça João de Azevedo Coutinho		
+Rua Alves Paiva Fragoso		
+Estrada de Chelas		
+Rua Faustino José Rodrigues		
+Rua Faustino José Rodrigues		
+Vila Bela Vista		
+Avenida Duque de Ávila		
+Rua Edison		
+Rua Augusto Gil		
+Rua Augusto Gil		
+Rua David de Sousa		
+Rua David de Sousa		
+Avenida Sacadura Cabral		
+Rua Capitão Ramires		
+Rua Augusto Gil		
+Avenida Sacadura Cabral		
+Rua Capitão Ramires		
+Rua David de Sousa		
+Rua Cervantes		
+Rua Presidente Wilson		
+Rua da Saudade		
+Rua de Santiago		
+Campo Pequeno		
+Avenida João XXI		
+Praça da Armada		
+Rua do Sacramento a Alcântara		
+Rua Actor António Cardoso		
+Rua Morais Soares		
+Avenida Almirante Reis		
+Estrada de Marvila		
+Rua da Beneficência		
+Rua Portugal Durão		
+Rua Carlos Reis		
+Rua Cardeal Mercier		
+Rua da Beneficência		
+Rua Jorge Afonso		
+Rua da Beneficência		
+Rua Veloso Salgado		
+Rua Falcão Trigoso		
+Rua Carlos Reis		
+Rua Soeiro Pereira Gomes		
+Rua Soeiro Pereira Gomes		
+Rua Filipe da Mata		
+Rua Filipe da Mata		
+Alameda Edgar Cardoso		
+Travessa do Fala-Só		
+Avenida do Santo Condestável		
+Rua Capitão Ramires		
+		
+Rua Jorge Alves		
+Rua do Ataíde		
+Calçada da Picheleira		
+Calçada da Picheleira		
+		
+		
+Rua Frei Fortunato de São Boaventura		
+Rua Frederico Perry Vidal		
+Rua Capitão Roby		
+Rua da Fábrica de Tecidos Lisbonenses		
+Rua Professor Mira Fernandes		
+Rua de Olivença		
+Praça Manuel Cerveira Pereira		
+Rua J		
+Rua Vasco de Mendonça Alves		
+Rua de Olivença		
+Rua Professor Mira Fernandes		
+Rua Professor Mira Fernandes		
+Rua Engenheiro Maciel Chaves		
+Rua Silveira Peixoto		
+Rua Robalo Gouveia		
+Rua Carlos Mardel		
+Rua do Sol a Chelas		
+Rua Ferreira da Silva		
+Rua Álvaro de Santa Rita Vaz		
+Rua Engenheiro Santos Simões		
+Rua do Sol a Chelas		
+Rua Cidade de Manchester		
+Rua do Sol a Chelas		
+Rua Cavaleiro de Oliveira		
+Rua Cidade de Liverpool		
+Largo Marquês de Nisa		
+Rua Gualdim Pais		
+Pátio do Lancastre		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Largo Marquês de Nisa		
+Largo Marquês de Nisa		
+Travessa da Amorosa		
+Rua Paio Peres Correia		
+Vila Flamiano		
+		
+Rua José Sobral Cid		
+Beco Horta das Canas		
+Beco dos Toucinheiros		
+Largo Marquês de Nisa		
+Rua José Sobral Cid		
+Rua do Cruzado Osberno		
+Largo de Santa Bárbara		
+Praça Paiva Couceiro		
+Largo Alferes Francisco Duarte		
+Largo Alferes Francisco Duarte		
+Largo de Santa Bárbara		
+Largo do Cabeço da Bola		
+Largo do Conde de Pombeiro		
+Largo do Mastro		
+Largo do Mastro		
+Pátio do Moca		
+Paço da Rainha		
+Praça Paiva Couceiro		
+Rua António Pedro		
+Rua Conselheiro Arantes Pedroso		
+Rua Jacinta Marto		
+Rua Neves Ferreira		
+Rua Neves Ferreira		
+Rua Newton		
+Rua Particular à Rua Sebastião Saraiva Lima		
+Rua de Santa Bárbara		
+Rua do Sol a Santana		
+Rua dos Anjos		
+Travessa do Forte		
+Travessa do Meio do Forte		
+Vila Queirós		
+Avenida Engenheiro Arantes e Oliveira		
+Rua Humberto da Cruz		
+Rua Padre Gregório Verdonk		
+Via Projetada A à Avenida Almirante Gago Coutinho		
+Rua Padre Gregório Verdonk		
+Rua Cervantes		
+Rua Cervantes		
+Rua Edison		
+Rua Edison		
+Praça António José de Almeida		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+Rua Marquês Sá da Bandeira		
+Rua Marquês Sá da Bandeira		
+Rua Marquês Sá da Bandeira		
+Parada do Alto de São João		
+Avenida Rovisco Pais		
+Avenida Marquês de Tomar		
+Rua de Sapadores		
+Beco dos Peixinhos		
+Praça Nuno Rodrigues dos Santos		
+Estrada das Laranjeiras		
+Estrada das Laranjeiras		
+Praça Marechal Humberto Delgado		
+Rua das Furnas		
+		
+Travessa do Espírito Santo		
+Rua de Entrecampos		
+Rua dos Sete Moinhos		
+Rua B		
+Rua Cruzado Osberno		
+Rua Cruzado Osberno		
+Rua Cruzado Osberno		
+Vila de São João		
+Rua Tenente Ferreira Durão		
+Largo Dona Estefânia		
+Calçada da Picheleira		
+Alto do Varejão		
+Praceta do Alto do Varejão		
+Alto do Varejão		
+Rua General Themudo Barata		
+Rua do Forte de Santa Apolónia		
+Rua General Justiniano Padrel		
+Travessa do Recolhimento de Lázaro Leitão		
+Rua Matilde Rosa Araújo		
+Rua de Campolide		
+Rua de Campolide		
+Rua Josefa Maria		
+Rua Maria da Fonte		
+Rua Natália Correia		
+Rua Rosalina		
+Rua Rosalina		
+Travessa do Forno do Maldonado		
+Vila Maria		
+Vila Maria		
+Travessa das Terras do Monte		
+Travessa das Terras do Monte		
+Arco Escuro		
+Arco Escuro		
+Largo Dona Rosa		
+Caminho de Baixo da Penha		
+Escadinhas das Olarias		
+Rua das Enfermeiras da Grande Guerra		
+Travessa do Jordão		
+Rua Cais do Tojo		
+Rua 2		
+Rua 2		
+		
+Rua D. António Luís de Sousa		
+		
+Rua do Garcia (à Cascalheira)		
+		
+Rua Dom António Luís de Sousa		
+Rua Dom António Luís de Sousa		
+Rua Dom António Luís de Sousa		
+Rua Dom António Luís de Sousa		
+Rua Ruben A. Leitão		
+Rua da Academia das Ciências		
+Rua Eduardo Coelho		
+Rua Engenheiro Vieira da Silva		
+Rua da Palmeira		
+Beco dos Toucinheiros		
+Vila Dias		
+Rua da Quinta da Aduela		
+Rua da Margem		
+Beco do Mirante		
+Rua de Campolide		
+Rua 9		
+Rua Ramalho Ortigão		
+Largo do Conde Barão		
+Rua da Boavista		
+Travessa do Cabral		
+Travessa do Ferragial		
+Travessa do Marquês de Sampaio		
+Travessa do Terreiro a Santa Catarina		
+Pátio do Pimenta		
+Largo de Santos o Novo		
+Pátio das Comendadeiras de Santos		
+Alto do Varejão		
+Avenida Fontes Pereira de Melo		
+Praça Dom Pedro IV		
+Praça Marquês de Pombal (Rotunda)		
+Praça da Figueira		
+Rua de São João da Praça		
+Largo da Boa-Hora		
+Rua Paiva de Andrada		
+Avenida Infante Dom Henrique		
+Rua do Grilo		
+Rua da Manutenção		
+Rua Cidade de Manchester		
+Rua Ilha do Príncepe		
+Rua Poeta Milton		
+Rua de Moçambique		
+Rua do Zaire		
+Rua Particular		
+Rua Luís Gonzaga Pereira		
+Rua João César Monteiro		
+Rua João César Monteiro		
+		
+Rua Gilberto Freyre		
+Rua Gilberto Freyre		
+Rua Jorge Amado		
+Beco da Cruz		
+Beco da Rosa		
+Beco do Carrasco		
+Largo de Jesus		
+Calçada do Combro		
+Rua João Brás		
+Rua de Marcos Marreiros		
+Rua da Academia das Ciências		
+Rua da Academia das Ciências		
+Rua do Loreto		
+Travessa André Valente		
+Travessa André Valente		
+Travessa da Conceição		
+Travessa da Peixeira		
+Travessa do Judeu		
+Calçada de São Lourenço		
+Calçada de São Lourenço		
+Largo dos Trigueiros		
+Rua do Arco do Marquês de Alegrete		
+Rua da Achada		
+Rua das Farinhas		
+Beco de São Francisco		
+Beco das Farinhas		
+Rua Brás Pacheco		
+Rua Fernando Pedroso		
+Rua Sarmento de Beires		
+Rua Sarmento de Beires		
+Rua José Estevão		
+Rua Passos Manuel		
+Rua Viriato		
+		
+Rua Viriato		
+Rua Conde de Monsaraz		
+		
+Rua Conde de Monsaraz		
+Rua Carlos Ribeiro		
+Largo do Calhariz		
+		
+Avenida Praia da Vitória		
+Rua Gonçalves Crespo		
+Rua Alves Redol		
+Rua Alves Redol		
+Avenida Defensores de Chaves		
+Calçada dos Cesteiros		
+Travessa de Estêvão Pinto		
+Rua Conde de Nova Goa		
+Rua de Santo Amaro		
+Rua Domingos Sequeira		
+Rua Coelho da Rocha		
+Rua Saraiva de Carvalho		
+Rua Padre Francisco		
+Travessa da Fábrica dos Pentes		
+		
+Rua Cova da Moura		
+Avenida Sidónio Pais		
+Avenida Sidónio Pais		
+Rua de Santa Cruz do Castelo		
+Largo de Santa Cruz do Castello		
+Rua das Flores de Santa Cruz		
+Rua de Santa Cruz do Castelo		
+Rua do Recolhimento		
+Beco do Pernabuquel		
+Beco do Pernabuquel		
+Beco do Recolhimento		
+Rua Doutor Eduardo Neves		
+Avenida General Roçadas		
+Rua da Penha de França		
+Rua Angelina Vidal		
+Rua Heliodoro Salgado		
+Rua de Macau		
+Rua de Timor		
+Calçada da Senhora do Monte		
+Largo da Graça		
+Rua de São Vicente		
+Rua de Santa Marinha		
+Largo dos Lóios		
+Largo de Santa Luzia		
+Largo do Contador-Mor		
+Travessa do Açougue		
+Largo do Menino Deus		
+Calçada da Graça		
+Largo do Menino Deus		
+Avenida Engenheiro Duarte Pacheco		
+Rua Joaquim António de Aguiar		
+Rua Robalo Gouveia		
+Rua da Penha de França		
+		
+Rua Delfim de Brito Guimarães		
+Rua Eduardo Malta		
+		
+Rua do Arco do Carvalhão		
+Rua do Arco do Carvalhão		
+Rua das Flores		
+Rua do Ferragial		
+Rua José Acúrcio das Neves		
+Rua Carlos Reis		
+Rua da Bela Vista à Lapa		
+Avenida Engenheiro Arantes e Oliveira		
+Largo de Santo Estevão		
+Largo do Salvador		
+Rua do Salvador		
+Rua Lucinda do Carmo		
+Azinhaga do Alto do Varejão		
+Praça das Amoreiras		
+Rua de Artilharia Um		
+Rua de São Filipe Néri		
+Travessa de Santana		
+Pátio do Salema		
+Calçada de Santana		
+Travessa do Convento da Encarnação		
+Vila Serra Fernandes		
+Travessa do Colégio		
+Calçada do Garcia		
+Largo do Convento da Encarnação		
+Rua do Arco da Graça		
+Travessa do Almargem		
+Rua Afonso de Albuquerque		
+Costa do Castelo		
+Rua Joaquim António de Aguiar		
+Avenida da Liberdade		
+Rua Bernardino Costa		
+		
+		
+Avenida Madame Curie		
+Rua Saraiva de Carvalho		
+Rua de São Tomé		
+Rua Angelina Vidal		
+Rua Maria Andrade		
+Travessa dos Ferreiros à Lapa		
+Rua da Senhora da Saúde		
+Largo Professor Arnaldo Sampaio		
+Rua Canto da Maya		
+Rua Canto da Maya		
+Rua Basílio Teles		
+Pátio do Tijolo		
+Campo de Santa Clara		
+Rua 8		
+Rua da Pedreira do Fernandinho		
+Rua Particular 1		
+Rua 2		
+Rua Marquês de Fronteira		
+Rua Soares dos Reis		
+Rua 10		
+Rua Particular 1		
+Rua Ferreira de Chaves		
+Rua Vítor Bastos		
+Rua 7		
+Rua Francisco Lobo Rodrigues		
+Rua Conde das Antas		
+Rua Leandro Braga		
+Rua Pereira e Sousa		
+Rua Particular à Rua do Arco do Carvalhão		
+Rua Guilherme Anjos		
+Rua Ramalho Ortigão		
+Travessa do Pé de Ferro		
+Rua Mário Castelhano		
+Rua Mário Castelhano		
+Rua Mário Castelhano		
+Calçada do Forte		
+Largo de Santa Marinha		
+Avenida de Madrid		
+Avenida Padre Manuel da Nóbrega		
+Rua de São Boaventura		
+Praça Ilha do Faial		
+Rua Cidade da Horta		
+Rua Mindelo		
+Rua de Arroios		
+Rua de Arroios		
+		
+Rua de São Bernardo		
+Rua das Necessidades		
+Travessa das Necessidades		
+Rua J A2		
+Alto das Conchas		
+Azinhaga do Broma		
+Calçada dos Vinagreiros		
+Rua Alfredo Duarte (Marceneiro)		
+Rua J A3		
+Largo Luís Dourdil		
+Largo Luís Dourdil		
+Rua J A4		
+Rua J A1		
+Praça Eduardo Mondlane		
+Cais do Sodré		
+Rua da Mãe D'Água		
+Alto do Penalva		
+Calçada da Patriarcal		
+Travessa do Rosário		
+Rua João Pereira da Rosa		
+Rua do Crucifixo		
+Rua da Mãe D'Água		
+Travessa do Tesouro		
+Calçada das Necessidades		
+Largo do Rilvas		
+Largo do Rilvas		
+Rua Embaixador Teixeira de Sampaio		
+Rua Embaixador Terxeira do Sampaio		
+Largo do Rilvas		
+Rampa das Necesidades		
+Travessa de Santa Luzia		
+Rua da Cintura do Porto de Lisboa		
+Rua Manuel de Jesus Coelho		
+Avenida José Malhoa		
+Avenida Calouste Gulbenkian		
+Avenida Calouste Gulbenkian		
+Avenida Almirante Gago Coutinho		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Miguel Torga		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+Alameda Cardeal Cerejeira		
+Rua de Artilharia Um		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Duque de Loulé		
+Rua Francisco de Assis Rodrigues		
+Rua André Monteiro da Cruz		
+Rua Dom Carlos de Mascarenhas		
+Rua Conde das Antas		
+Rua Dom Carlos de Mascarenhas		
+Largo Monterroio de Mascarenhas		
+Avenida Calouste Gulbenkian		
+Rua de Campolide		
+Avenida António Augusto Aguiar		
+Praça de Espanha		
+Praça de Espanha		
+Avenida de Berna		
+Campo dos Mártires da Pátria		
+Campo dos Mártires da Pátria		
+		
+Avenida Sidónio Pais		
+Pátio das Comendadeiras de Santos		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Rua de Infantaria 16		
+Rua Coelho da Rocha		
+Rua Francisco Metrass		
+Eixo Norte-Sul		
+Avenida 24 de Julho		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Dom Carlos I		
+Avenida Duque de Loulé		
+Avenida Duque de Loulé		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Mouzinho de Albuquerque		
+Rua António Pedro		
+Rua Luciano Cordeiro		
+Rua Pascoal de Melo		
+Rua de Arroios		
+Rua de Dona Estefânia		
+Rua do Conde de Redondo		
+Praça José Fontana		
+Rua Pascoal de Melo		
+Avenida João XXI		
+Avenida João XXI		
+Avenida de Roma		
+Avenida de Roma		
+Rua da Alfândega		
+Rua da Bela Vista à Graça		
+Rua de Sapadores		
+Avenida Columbano Bordalo Pinheiro		
+Largo do Rato		
+Largo do Rato		
+Largo do Rato		
+Largo do Rato		
+Rua Carlos Alberto da Mota Pinto		
+Rua Carlos Alberto da Mota Pinto		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+		
+Praça da Armada		
+Calçada dos Barbadinhos		
+Rua Afonso Domingues		
+Rua Pedro Alexandrino		
+Rua de Sapadores		
+Rua de Bartolomeu Costa		
+Rua Machado de Castro		
+Calçada dos Barbadinhos		
+Avenida Fontes Pereira de Melo		
+Calçada dos Barbadinhos		
+Rua do Chão da Feira		
+Rua Joaquim António de Aguiar		
+Avenida Engenheiro Duarte Pacheco		
+		
+Calçada da Quintinha		
+Vila Santos		
+Avenida Mouzinho de Albuquerque		
+Avenida Mouzinho de Albuquerque		
+Rua Marquês de Olhão		
+Rua Marquês de Olhão		
+Azinhaga do Planeta		
+Rua de São Mamede		
+Rua de São Mamede		
+Largo da Madalena		
+Rua Marquês de Fronteira		
+Rua da Artilharia 1		
+Rua de Angola		
+Rua de Sapadores		
+Rua do Arco do Carvalhão		
+Rua Ramalho Ortigão		
+Avenida António Augusto de Aguiar		
+		
+Rua do Arco a São Mamede		
+Travessa do Noronha		
+Rua Gustavo de Matos Sequeira		
+		
+Rua da Quinta dos Ourives		
+Rua José Leilote		
+Travessa da Ilha do Grilo		
+Azinhaga da Bruxa		
+Rua da Fábrica das Moagens		
+Largo da Fábrica de Fiação de Xabregas		
+Largo da Fábrica de Tecidos Oriental		
+Largo da Fábrica de Fiação de Xabregas		
+Largo da Fábrica de Tecidos Oriental		
+Largo da Fábrica de Tecidos Oriental		
+Largo da Fábrica de Fiação de Xabregas		
+Rua Simões Telhadas		
+Largo da Madre de Deus		
+Rua José Alves ao Grilo		
+Rua da Quinta da Aduela		
+Rua João César Monteiro		
+Azinhaga do Planeta		
+Calçada do Perdigão		
+Rua Dom Luís Coutinho		
+Rua da Quinta dos Ourives		
+Largo da Madre de Deus		
+Rua Carlos José Caldeira		
+Rua de Cima de Chelas		
+Largo da Quinta das Salgadas		
+Rua José Relvas		
+Rua Faustino José Rodrigues		
+Rua Faustino José Rodrigues		
+Estrada de Marvila		
+Azinhaga das Veigas		
+Rua de Xabregas		
+Rua Lino Helder		
+Rua Presidente Arriaga		
+Travessa dos Brunos		
+Rua de Sant'Ana à Lapa		
+Rua Presidente Arriaga		
+Rua José Rodrigues		
+Quinta do Palô		
+Largo de Santos		
+Pátio do Marialva		
+Impasse à Rua José do Patrocínio		
+Rua Mário Botas		
+Rua Carlos Gil		
+Rua Chianca de Garcia		
+Rua Pedro Homem de Melo		
+Rua Carlos Gil		
+Azinhaga dos Alfinetes		
+Rua Professor Sousa da Câmara		
+Avenida António Augusto de Aguiar		
+Avenida António Augusto Aguiar		
+Rua Augusto dos Santos		
+Beco do Espírito Santo		
+Beco do Melo		
+Largo do Outeirinho da Amendoeira		
+Beco da Lapa		
+Rua Cruz de Santa Helena		
+Largo do Sequeira		
+Rua do Jardim do Tabaco		
+Largo do Museu de Artilharia		
+Largo do Museu de Artilharia		
+Boqueirão da Praia da Galé		
+Calçadinha de São Vicente		
+Calçada de São Vicente		
+Avenida António Augusto de Aguiar		
+Túnel do Marquês		
+Praça Dom Pedro IV		
+Largo de São Domingos		
+Largo da Severa		
+Largo da Severa		
+Travessa dos Inglesinhos		
+Rua Correia Garção		
+		
+Praça das Flores		
+Travessa de Santa Teresa		
+Rua da Mãe D'Água		
+Arco do Evaristo		
+Largo do Corpo Santo		
+Avenida de Brasília		
+Beco da Galheta		
+Travessa de José António Pereira		
+Travessa de José António Pereira		
+Beco da Galheta		
+Corredor da Torrinha		
+Beco da Galheta		
+Travessa de São João de Deus		
+Travessa do Chafariz das Terras		
+Alto da Cova da Moura		
+Travessa das Atafonas		
+Largo de São Rafael		
+Rua das Flores		
+Largo da Atafona		
+Largo Adelino Amaro da Costa		
+Rua de Santa Catarina		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Rua da Cintura do Porto de Lisboa		
+Largo de Santos o Novo		
+Rua Ferreira Borges		
+Rua do Milagre de Santo António		
+Rua de São Cristóvão		
+Largo de São Cristóvão		
+Costa do Castelo		
+Calçada do Marquês de Tancos		
+Rua da Achada		
+Rua das Damas		
+Rua Febo Moniz		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Praça Doutor Ernesto Roma		
+Praça Doutor Ernesto Roma		
+Avenida da Liberdade		
+Calçada da Graça		
+Rua Coelho da Rocha		
+		
+Caminho Alto do Varejão		
+Travessa do Alto do Varejão		
+Largo de Santos o Novo		
+Calçada das Lajes		
+Caminho Alto do Varejão		
+Rua Henrique Barrilaro Ruas		
+Rua Henrique Barrilaro Ruas		
+Rua do Barão de Monte Pedral		
+Rua do Forte de Santa Apolónia		
+Avenida Coronel Eduardo Galhardo		
+Rua Frei Manuel do Cenáculo		
+Rua da Escola de Medicina Veterinária		
+Rua Joaquim António de Aguiar		
+Rua Joaquim António de Aguiar		
+		
+Praça José Fontana		
+		
+Praça José Fontana		
+Avenida Engenheiro Duarte Pacheco		
+Rua de Campolide		
+Eixo Norte-Sul		
+Pátio do Eduardo		
+Rua da Bela Vista à Graça		
+Rua de Santo António à Estrela		
+Largo Trindade Coelho		
+Rua da Oliveira ao Carmo		
+Travessa da Amoreira		
+Rua Ribeiro Sanches		
+Rua de São Caetano		
+Rua Pau da Bandeira		
+Rua Almirante Barroso		
+Rua Almirante Barroso		
+Rua de São Bernardo		
+Rua Alexandre Herculano		
+Rua Alexandre Herculano		
+Rua Rodrigues Sampaio		
+Rua do Conde de Redondo		
+Rua da Sociedade Farmacêutica		
+Casal do Evaristo de Cima		
+Rua Padre Francisco		
+Travessa do Bahuto		
+Travessa Bahuto		
+Travessa Bahuto		
+Travessa do Torrinha		
+Vila Maria		
+Travessa Particular		
+Travessa Particular		
+Travessa da Escola		
+Rua C do Bairro da Liberdade		
+Rua de Campolide		
+Rua de Campolide		
+Avenida General Correia Barreto		
+Avenida General Correia Barreto		
+Avenida General Correia Barreto		
+Rua da Mesquita		
+Praça Marechal Humberto Delgado		
+		
+Rua de Campolide		
+Praça Marechal Humberto Delgado		
+Estrada das Laranjeiras		
+Rua Francisco Lobo Rodrigues		
+Vila Maria		
+Avenida Fontes Pereira de Melo		
+Avenida da Liberdade		
+Avenida da Liberdade		
+		
+		
+Rua do Machadinho		
+Travessa do Pasteleiro		
+Rua Miguel Lupi		
+Pátio do Garrido		
+Rua Carlos Alberto da Mota Pinto		
+Rua Carlos Alberto da Mota Pinto		
+Rua Carlos Alberto da Mota Pinto		
+Avenida Conselheiro Fernando de Sousa		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Rua das Francesinhas		
+Avenida Dom Carlos I		
+		
+Avenida Dom Carlos I		
+		
+Rua Campos Júnior		
+Praça das Águas Livres		
+Pátio do Gonçalves		
+Rua de Martim Vaz		
+Beco dos Contrabandistas		
+Rua Tomás Ribeiro		
+Avenida Fontes Pereira de Melo		
+Rua Tomás Ribeiro		
+Rua Dom Carlos de Mascarenhas		
+Rua Tenente Ferreira Durão		
+Rua de Infantaria 16		
+Avenida Fontes Pereira de Melo		
+Avenida da Liberdade		
+Rua Alexandre Herculano		
+Largo de Andaluz		
+Largo de Andaluz		
+Avenida Columbano Bordalo Pinheiro		
+Rua de Campolide		
+Praça do Município		
+Rua Bernardo Lima		
+Rua Ferreira Lapa		
+Rua Gonçalves Crespo		
+Rua da Sociedade Farmacêutica		
+Rua da Sociedade Farmacêutica		
+Rua do Conde de Redondo		
+Rua do Conde de Redondo		
+Rua do Conde de Redondo		
+Largo de Santa Bárbara		
+Arco do Bandeira		
+Rua Áurea		
+Avenida Casal Ribeiro		
+Travessa das Inglesinhas		
+Rua Mouzinho da Silveira		
+Rua dos Ferreiros a Santa Catarina		
+Travessa do Alcaide		
+Rua de Fernandes Tomás		
+Travessa de Santa Catarina		
+Rua de Santa Catarina		
+Cais do Sodré		
+Rua da Cintura do Porto de Lisboa		
+Avenida Almirante Gago Coutinho		
+Avenida Almirante Gago Coutinho		
+Avenida Almirante Reis		
+Travessa das Isabéis		
+Travessa dos Remolares		
+Rua de São Paulo		
+Rua Almeida Brandão		
+Rua do Jardim à Estrela		
+Avenida da Ribeira das Naus		
+Avenida da Ribeira das Naus		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Travessa do Pé-de-Ferro		
+Rua Alexandre Herculano		
+Rua Alexandre Herculano		
+Praça Marquês de Pombal		
+Praça Marquês de Pombal		
+		
+Praça Marquês de Pombal		
+Praça Marquês de Pombal		
+Praça Marquês de Pombal		
+Rua Joaquim António de Aguiar		
+Avenida Magalhães Lima		
+Avenida Magalhães Lima		
+Avenida João Crisóstomo		
+Travessa de Guilherme Cossoul		
+Rua da Escola Politécnica		
+Rua da Graça		
+Rua de Sapadores		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Rua do Garcia		
+Pátio da Fábrica de Goma		
+Pátio da Fábrica de Goma		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Rua Latino Coelho		
+Travessa do Sequeiro		
+Rua da Bica de Duarte Belo		
+Calçada da Bica Pequena		
+Rua Marquês de Fronteira		
+Avenida António Augusto de Aguiar		
+Rua Marquês de Fronteira		
+Avenida António Augusto de Aguiar		
+Rua Marquês de Fronteira		
+Avenida de Berna		
+Avenida da República		
+Avenida de Berna		
+Avenida 5 de Outubro		
+Avenida de Berna		
+Largo de São Sebastião da Pedreira		
+Rua Tomás Ribeiro		
+Avenida Luís Bívar		
+Travessa do Forno do Torel		
+Rua de São Bernardo		
+Rua de São Bernardo		
+Rua de São Bernardo		
+Travessa de São Plácido		
+Rua António Enes		
+Rua António Enes		
+Rua Seara Nova		
+Rua Sousa Pinto		
+Rua Sousa Pinto		
+Avenida Magalhães Lima		
+Rua Brás Pacheco		
+Rua Nova da Trindade		
+Largo Artur Bual		
+Largo Artur Bual		
+Largo Artur Bual		
+Largo Artur Bual		
+Largo Artur Bual		
+Rua Alberto José Pessoa		
+Rua Alfredo Duarte (Marceneiro)		
+Rua Alfredo Duarte (Marceneiro)		
+Rua da Quinta do Marquês de Abrantes		
+Rua Mário Botas		
+Rua Severo Portela		
+Rua Alfredo Duarte (Marceneiro)		
+Rua João César Monteiro		
+Regueirão dos Anjos		
+Avenida Fontes Pereira de Melo		
+Estrada das Laranjeiras		
+Alameda Coronel Marques Júnior		
+Alameda Coronel Marques Júnior		
+Rua Luz Soriano		
+Largo de Santos o Novo		
+Largo Marquês de Nisa		
+Largo Marquês de Nisa		
+Pátio do Gervásio		
+Rua Bispo de Cochim		
+Rua de Santo António da Sé		
+Rua de Entre-Muros do Mirante		
+Rotunda 1 ao Vale de Chelas		
+Travessa do Combro		
+Rua Gonçalves Crespo		
+Avenida Óscar Monteiro Torres		
+Avenida de Roma		
+Avenida Óscar Monteiro Torres		
+Campo Pequeno		
+Largo da Graça		
+Praça Luís de Camões		
+Avenida de Roma		
+Avenida de Roma		
+Avenida de Roma		
+Avenida Manuel da Maia		
+Avenida Manuel da Maia		
+Avenida Manuel da Maia		
+Avenida Manuel da Maia		
+Avenida da República		
+Rua de Santa Cruz do Castelo		
+Rua dos Corvos		
+Travessa das Almas		
+Largo do Rilvas		
+Rua da Lapa		
+Rua dos Navegantes		
+Rua de Buenos Aires		
+Rua Braamcamp		
+Rua Alexandre Herculano		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Rua de Santo António à Estrela		
+Rua de Santo António à Estrela		
+Avenida Infante Santo		
+Rua de Sant'Ana à Lapa		
+Eixo Norte-Sul		
+Calçada da Estrela		
+		
+Rua Francisco Sanches		
+Rua Francisco Sanches		
+Rua Maria da Fonte		
+Vila Berta		
+Vila Berta		
+Avenida da Liberdade		
+Rua Sousa Martins		
+Rua Luciano Cordeiro		
+Avenida da República		
+Avenida João Crisóstomo		
+Avenida Almirante Reis		
+Rua Nova do Desterro		
+Rua de São Lázaro		
+Largo do Mitelo		
+Rua Alves Redol		
+Avenida Miguel Bombarda		
+Rua Luís Cadote		
+Rua Marquês de Olhão		
+Rua Alves Paiva Fragoso		
+Rua David Lopes		
+Rua Morais Soares		
+Praça Paiva Couceiro		
+Praça Paiva Couceiro		
+Rua António Gonçalves		
+		
+Rua 5/6 ao Vale de Chelas		
+Rua 5/6 ao Vale de Chelas		
+		
+Rua 5/6 ao Vale de Chelas		
+Rua 6/7 ao Vale de Chelas		
+Avenida Marechal Francisco da Costa Gomes		
+Avenida Marechal Francisco da Costa Gomes		
+Rua Cristóvão Falcão		
+Rua Barão de Sabrosa		
+Avenida Afonso Costa		
+Rotunda das Olaias		
+Avenida Marechal Francisco da Costa Gomes		
+Avenida Marechal Francisco da Costa Gomes		
+Calçada de Arroios		
+Avenida Afonso Costa		
+Travessa de São Tomé		
+Rua da Guía		
+Rua Jacinta Marto		
+Rua Jacinta Marto		
+Rua Jacinta Marto		
+Rua Jacinta Marto		
+Rua José Estevão		
+Rua de Dona Estefânia		
+Avenida da Liberdade		
+Praça José Fontana		
+Praça José Fontana		
+Praça José Fontana		
+Avenida António Serpa		
+		
+Avenida António de Serpa		
+Avenida Elias Garcia		
+Avenida Elias Garcia		
+Avenida Elias Garcia		
+Avenida Elias Garcia		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Campo Pequeno		
+Avenida Elias Garcia		
+Avenida Elias Garcia		
+Avenida João Crisóstomo		
+Avenida João Crisóstomo		
+Avenida João Crisóstomo		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Campo Pequeno		
+Campo Pequeno		
+Campo Pequeno		
+Rua Andrade Corvo		
+Rua Tomás Ribeiro		
+		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Rua da Palma		
+Rua da Palma		
+Rua Pascoal de Melo		
+Avenida Almirante Reis		
+Rua Morais Soares		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Rua António Pereira Carrilho		
+Rua António Pereira Carrilho		
+Rua António Pereira Carrilho		
+Rua Morais Soares		
+Rua Morais Soares		
+Rua Morais Soares		
+Rua Morais Soares		
+Rua Morais Soares		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Avenida Fontes Pereira de Melo		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Rua Laura Alves		
+Avenida 5 de Outubro		
+Avenida de Berna		
+Avenida de Berna		
+Avenida de Berna		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Avenida Barbosa du Bocage		
+Avenida Barbosa du Bocage		
+Avenida Barbosa du Bocage		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Avenida Elias Garcia		
+Avenida Elias Garcia		
+Avenida Elias Garcia		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Avenida Visconde de Valmor		
+Avenida Visconde de Valmor		
+Avenida Visconde de Valmor		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Avenida Defensores de Chaves		
+Avenida Defensores de Chaves		
+Avenida Defensores de Chaves		
+Avenida Defensores de Chaves		
+Avenida Defensores de Chaves		
+Avenida Defensores de Chaves		
+Avenida Elias Garcia		
+Avenida Elias Garcia		
+Avenida João Crisóstomo		
+Rua Oliveira Martins		
+Avenida Casal Ribeiro		
+Rua Almirante Barroso		
+Rua Almirante Barroso		
+Avenida da Liberdade		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Rua de Campolide		
+Avenida Engenheiro Duarte Pacheco		
+Rua de Dona Estefânia		
+Rua Alves Redol		
+Avenida Elias Garcia		
+Avenida Marquês de Tomar		
+Avenida Marquês de Tomar		
+Avenida Marquês de Tomar		
+Avenida Marquês de Tomar		
+Avenida Visconde de Valmor		
+Avenida Visconde de Valmor		
+Avenida Visconde de Valmor		
+Rua Filipe Folque		
+Rua Filipe Folque		
+Rua Filipe Folque		
+Rua Pedro Nunes		
+Rua Andrade Corvo		
+Rua Viriato		
+Rua Pinheiro Chagas		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Rua Castilho		
+Rua Joaquim António de Aguiar		
+Rua Joaquim António de Aguiar		
+Rua da Artilharia 1		
+Rua de Santa Marta		
+Avenida Miguel Bombarda		
+Avenida de Berna		
+Largo Azeredo Perdigão		
+Rua Marquês Sá da Bandeira		
+Rua Marquês Sá da Bandeira		
+Rua Marquês Sá da Bandeira		
+Largo Azeredo Perdigão		
+Avenida de Berna		
+Avenida de Berna		
+Avenida de Berna		
+Rua Laura Alves		
+Avenida João XXI		
+Avenida João XXI		
+Avenida João XXI		
+Avenida João XXI		
+Avenida João XXI		
+Avenida João XXI		
+Avenida de Roma		
+Avenida de Roma		
+Avenida de Roma		
+Campo Pequeno		
+Rua Cervantes		
+Avenida da Liberdade		
+Rua Barata Salgueiro		
+Avenida da Liberdade		
+Avenida da Liberdade		
+Avenida da Liberdade		
+Avenida Duque de Loulé		
+Avenida Duque de Loulé		
+Avenida Duque de Loulé		
+Rua Luciano Cordeiro		
+		
+Avenida da República		
+Avenida José Malhoa		
+Avenida José Malhoa		
+Avenida Ressano Garcia		
+Avenida Ressano Garcia		
+Rua Doutor Júlio Dantas		
+Rua Doutor Júlio Dantas		
+Rua Fialho de Almeida		
+Rua Ramalho Ortigão		
+Rua Ramalho Ortigão		
+Rua de Campolide		
+Rua de Campolide		
+Rua de Campolide		
+Rua de Campolide		
+Rua de Campolide		
+		
+Rua Barata Salgueiro		
+Praça de Espanha		
+Avenida Columbano Bordalo Pinheiro		
+Avenida Madame Curie		
+Avenida das Forças Armadas		
+Estrada das Laranjeiras		
+Estrada das Laranjeiras		
+Praça Marechal Humberto Delgado		
+Praça Marechal Humberto Delgado		
+Rua de Campolide		
+Praça Marechal Humberto Delgado		
+Avenida Columbano Bordalo Pinheiro		
+		
+Avenida das Forças Armadas		
+Eixo Norte-Sul		
+Eixo Norte-Sul		
+Praça Marechal Humberto Delgado		
+Avenida Almirante Gago Coutinho		
+Rua de Santa Marta		
+Largo do Contador-Mor		
+Rua da Conceição		
+Rua da Madalena		
+Rua de Santiago		
+Rua dos Fanqueiros		
+Rua Áurea		
+Rua da Conceição		
+Rua Áurea		
+Praça da Figueira		
+Praça da Figueira		
+Rua da Madalena		
+Rua da Madalena		
+Rua da Madalena		
+Rua dos Bacalhoeiros		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Mouzinho de Albuquerque		
+Avenida Mouzinho de Albuquerque		
+Avenida Mouzinho de Albuquerque		
+Parada do Alto de São João		
+Parada do Alto de São João		
+Parada do Alto de São João		
+Parada do Alto de São João		
+Parada do Alto de São João		
+Parada do Alto de São João		
+Parada do Alto de São João		
+Praça Paiva Couceiro		
+Rua António Gonçalves		
+Rua António Gonçalves		
+Rua Cesário Verde		
+Rua David Lopes		
+Rua Eduardo Costa		
+Rua Lopes		
+Rua Morais Soares		
+Rua Morais Soares		
+Rua Morais Soares		
+Rua Particular à Rua Frei Manuel do Cenáculo		
+Rua Teixeira Lopes		
+Rua Teixeira Lopes		
+Rua Teixeira Pinto		
+Rua dos Caminhos de Ferro		
+Rua dos Caminhos de Ferro		
+		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Rua Bispo de Cochim		
+Rua Bispo de Cochim		
+Rua Bispo de Cochim		
+Rua Bispo de Cochim		
+Rua da Madre de Deus		
+Rua do Salitre		
+Rua do Salitre		
+Rua do Salitre		
+Rua Barata Salgueiro		
+Rua Castilho		
+Largo do Contador-Mor		
+Rua Nova da Trindade		
+Calçada do Carmo		
+Calçada do Carmo		
+Praça Dom Pedro IV		
+Praça Dom Pedro IV		
+Praça Dom Pedro IV		
+Praça Martim Moniz		
+Praça dos Restauradores		
+Praça dos Restauradores		
+Praça dos Restauradores		
+Praça dos Restauradores		
+Rua 1º de Dezembro		
+Rua Fernandes da Fonseca		
+Rua Serpa Pinto		
+Rua da Conceição da Glória		
+Rua da Palma		
+Rua das Taipas		
+Rua das Taipas		
+Rua das Taipas		
+Rua das Taipas		
+Largo do Rato		
+Largo do Rato		
+Largo do Rato		
+Largo do Rato		
+Largo do Rato		
+Largo do Rato		
+Rua do Sol ao Rato		
+Largo Hintze Ribeiro		
+Rua Alexandre Herculano		
+Rua Alexandre Herculano		
+Rua Alexandre Herculano		
+Rua Alexandre Herculano		
+Rua Alexandre Herculano		
+Rua Alexandre Herculano		
+Rua Alexandre Herculano		
+Rua Alexandre Herculano		
+Rua Castilho		
+Travessa do Salitre		
+Praça Paiva Couceiro		
+Praça do Duque da Terceira		
+Praça do Duque da Terceira		
+Rua Jacinta Marto		
+Rua Morais Soares		
+Rua Pascoal de Melo		
+Rua Passos Manuel		
+Avenida da Liberdade		
+Rua Alexandre Herculano		
+Rua Alexandre Herculano		
+Boqueirão do Duro		
+Boqueirão do Duro		
+Rua Nova do Carvalho		
+Rua do Instituto Industrial		
+Rua Braamcamp		
+Rua Braamcamp		
+Rua Braamcamp		
+Rua Rodrigo da Fonseca		
+Rua Rodrigo da Fonseca		
+Calçada de Arroios		
+Rua José Estevão		
+Rua Marques da Silva		
+Rua Pascoal de Melo		
+Rua Pascoal de Melo		
+Rua Passos Manuel		
+Rua Alexandre Herculano		
+Avenida António José de Almeida		
+Avenida General Roçadas		
+Avenida General Roçadas		
+Avenida Miguel Bombarda		
+Avenida de Berna		
+Praça das Novas Nações		
+Rua de Dona Filipa de Vilhena		
+Rua Passos Manuel		
+Rua da Penha de França		
+Rua de Cabo Verde		
+Rua de Sapadores		
+Estrada das Laranjeiras		
+Avenida Columbano Bordalo Pinheiro		
+Avenida Columbano Bordalo Pinheiro		
+Estrada das Laranjeiras		
+Estrada das Laranjeiras		
+Estrada das Laranjeiras		
+Estrada das Laranjeiras		
+Rua Augusto Abelaira		
+Rua Marciano Henriques da Silva		
+Rua Castilho		
+Rua Castilho		
+Rua Castilho		
+Rua Castilho		
+Rua Castilho		
+Rua Castilho		
+Rua Castilho		
+Rua Castilho		
+Rua Castilho		
+Rua Castilho		
+Rua Castilho		
+Rua Castilho		
+Rua Joaquim António de Aguiar		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+Rua Rosa Araújo		
+Avenida Manuel da Maia		
+Avenida Manuel da Maia		
+Avenida Manuel da Maia		
+Alameda Dom Afonso Henriques		
+Alameda Dom Afonso Henriques		
+Avenida Manuel da Maia		
+Avenida Manuel da Maia		
+Avenida Manuel da Maia		
+Azinhaga da Fonte do Louro		
+Rua Barão de Sabrosa		
+Rua Cristóvão Falcão		
+Rua Cristóvão Falcão		
+		
+Avenida Marechal Francisco da Costa Gomes		
+		
+Avenida Duque de Ávila		
+Avenida de Berna		
+Avenida General Roçadas		
+Rua Doutor Lacerda e Almeida		
+Rua da Penha de França		
+Avenida General Roçadas		
+Rua Nery Delgado		
+Rua Visconde de Santarém		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+		
+Calçada de Santa Catarina a Chelas		
+Beco dos Toucinheiros		
+Vila Amélia Gomes		
+Largo do Salvador		
+Rua do Salvador		
+Rua do Salvador		
+Avenida de Roma		
+Praça de Londres		
+Praça de Londres		
+Praça de Londres		
+Praça de Londres		
+Praça de Londres		
+Avenida Praia da Vitória		
+Avenida Afonso Costa		
+Avenida Afonso Costa		
+Avenida Afonso Costa		
+Avenida Afonso Costa		
+Avenida Afonso Costa		
+Avenida Afonso Costa		
+Avenida Afonso Costa		
+Avenida Afonso Costa		
+Avenida Afonso Costa		
+Avenida Afonso Costa		
+Avenida Engenheiro Arantes e Oliveira		
+Avenida Marechal Francisco da Costa Gomes		
+Avenida Marechal Francisco da Costa Gomes		
+Rua Professora Margarida Vieira Mendes		
+		
+Avenida Afonso Costa		
+Avenida Carlos Pinhão		
+Avenida Carlos Pinhão		
+Avenida Carlos Pinhão		
+Avenida Carlos Pinhão		
+Avenida Carlos Pinhão		
+Avenida Carlos Pinhão		
+Avenida Carlos Pinhão		
+Avenida Carlos Pinhão		
+Avenida Francisco Salgado Zenha		
+Rua Jorge Amado		
+Rua Jorge Amado		
+Rua Gilberto Freyre		
+Rua Américo Durão		
+Rua Aquiles Machado		
+Rua Aquiles Machado		
+Rua Professor Mira Fernandes		
+Rua da Fábrica de Estamparia		
+Rua Actor António Cardoso		
+Rua Carvalho Araújo		
+Avenida de Roma		
+Avenida de Roma		
+Rua de Santo António à Estrela		
+Eixo Norte-Sul		
+Rua Francisco Gentil Martins		
+Rua C		
+Travessa das Flores		
+Travessa de Cima dos Quartéis		
+Travessa do Cabo		
+Largo Doutor António Viana		
+Largo Doutor António Viana		
+Beco dos Agulheiros		
+Telheiro de São Vicente		
+Escadinhas do Arco da Dona Rosa		
+Avenida Calouste Gulbenkian		
+Avenida Calouste Gulbenkian		
+Eixo Norte-Sul		
+Eixo Norte-Sul		
+Rua de Campolide		
+Rua de Campolide		
+Rua de Campolide		
+Avenida Calouste Gulbenkian		
+Avenida Calouste Gulbenkian		
+Avenida Calouste Gulbenkian		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+Rua de Campolide		
+Avenida José Malhoa		
+Rua Doutor António Martins		
+Rua de Campolide		
+Praça Dom João da Câmara		
+Praça Dom João da Câmara		
+Rua 1º de Dezembro		
+Avenida da Índia		
+Avenida de Brasília		
+Avenida de Brasília		
+Avenida de Brasília		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Travessa de São Caetano		
+Travessa de São Caetano		
+Travessa de São Caetano		
+Alameda Cardeal Cerejeira		
+Alameda Cardeal Cerejeira		
+Alameda Cardeal Cerejeira		
+Alameda Cardeal Cerejeira		
+Avenida Sidónio Pais		
+Avenida Sidónio Pais		
+Avenida Sidónio Pais		
+Largo de São Sebastião da Pedreira		
+Rua Carlos Testa		
+Rua Carlos Testa		
+Rua Dom Francisco Manuel de Melo		
+Rua Latino Coelho		
+Avenida António Augusto de Aguiar		
+Avenida António Augusto de Aguiar		
+Avenida António Augusto de Aguiar		
+Avenida António Augusto Aguiar		
+Rua Marquês de Fronteira		
+Avenida dos Combatentes		
+Avenida dos Combatentes		
+Avenida dos Combatentes		
+Avenida dos Combatentes		
+Avenida dos Combatentes		
+Avenida dos Combatentes		
+Rua Soeiro Pereira Gomes		
+Rua Soeiro Pereira Gomes		
+Praça da Figueira		
+Rua Dom Duarte		
+Rua da Palma		
+Túnel do Marquês		
+Túnel do Marquês		
+Túnel do Marquês		
+Rua Passos Manuel		
+Avenida Dom Carlos I		
+Largo de Santos		
+Avenida Mouzinho de Albuquerque		
+Praça Paiva Couceiro		
+Avenida Casal Ribeiro		
+Avenida Casal Ribeiro		
+Praça Marquês de Pombal		
+		
+Rua da Conceição		
+Travessa do Corpo Santo		
+Travessa do Corpo Santo		
+Praça da Estrela		
+Avenida Infante Santo		
+Praça Luís de Camões		
+Praça Luís de Camões		
+Praça Luís de Camões		
+Praça Martim Moniz		
+Praça São João Bosco		
+Praça da Estrela		
+Praça da Estrela		
+Praça da Estrela		
+Rua da Estrela		
+Rua da Estrela		
+Rua da Estrela		
+Rua de Santo António à Estrela		
+Rua Saraiva de Carvalho		
+Travessa do Terreirinho		
+Alameda Dom Afonso Henriques		
+Avenida Casal Ribeiro		
+Avenida Infante Santo		
+Avenida Manuel da Maia		
+Avenida Manuel da Maia		
+Calçada da Picheleira		
+Praça Marquês de Pombal		
+Praça Marquês de Pombal		
+Rua Doutor Faria de Vasconcelos		
+Rua Engenheiro Vieira da Silva		
+Avenida Infante Santo		
+Avenida Infante Santo		
+Alameda Dom Afonso Henriques		
+Avenida Afonso Costa		
+Avenida 24 de Julho		
+Praça Marquês de Pombal		
+Rua Aquiles Machado		
+Rua Engenheiro Vieira da Silva		
+Rua Professor Mira Fernandes		
+Rua da Estrela		
+		
+Rua A da Quinta do Ferro		
+Avenida Álvares Cabral		
+Praça Martim Moniz		
+Rua Cesário Verde		
+Calçada do Correio Velho		
+Avenida Rovisco Pais		
+Rua António Maria Cardoso		
+Largo do Chiado		
+Rua dos Duques de Bragança		
+Rua do Conde de Redondo		
+Avenida José Malhoa		
+Campo Pequeno		
+Avenida João XXI		
+Campo Pequeno		
+Avenida João XXI		
+Avenida João XXI		
+Avenida João XXI		
+Avenida João XXI		
+Avenida João XXI		
+Avenida João XXI		
+Rua do Arco de Cego		
+Rua do Arco de Cego		
+Rua Latino Coelho		
+Rua Viriato		
+Rua Viriato		
+Rua Latino Coelho		
+Avenida da República		
+Azinhaga do Ferrão		
+Vila Salgada		
+Rua da Palma		
+Rua da Senhora da Saúde		
+Rua da Palma		
+Vila Dias		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Travessa do Jasmin		
+Eixo Norte-Sul		
+Rua do Olival		
+Travessa do Outeiro		
+Cais do Sodré		
+Rua de São Tomé		
+Largo da Graça		
+Calçada de São Vicente		
+Rua de São Tomé		
+Rua das Escolas Gerais		
+Rua da Cintura do Porto de Lisboa		
+Campo dos Mártires da Pátria		
+Campo dos Mártires da Pátria		
+Praça de Londres		
+		
+Calçada do Marquês de Tancos		
+Largo do Chão do Loureiro		
+Rua de São Mamede		
+Rua da Madalena		
+Avenida António José de Almeida		
+Rua dos Remolares		
+Rua de Dona Estefânia		
+Rua de Dona Estefânia		
+Praça do Duque da Terceira		
+Praça do Duque da Terceira		
+Travessa dos Remolares		
+Praça Luís de Camões		
+Rua Tomás Ribeiro		
+Praça Luís de Camões		
+Cais do Sodré		
+Praça do Duque da Terceira		
+Rua Cervantes		
+Calçada da Graça		
+Rua Ivone Silva		
+Largo do Cabeço da Bola		
+Rua das Barracas		
+Avenida da República		
+Rua Brás Pacheco		
+Rua Brás Pacheco		
+Rua Brás Pacheco		
+		
+Rua Barbosa Cólen		
+Rua Desidério Bessa		
+Rua Bernardo Passos		
+Rua Bernardo Passos		
+Rua José Sarmento		
+Rua Stuart Carvalhais		
+Rua Carlos Alberto da Mota Pinto		
+Rua Carlos Alberto da Mota Pinto		
+Rua Carlos Alberto da Mota Pinto		
+Rua Carlos Alberto da Mota Pinto		
+Avenida Visconde de Valmor		
+Calçada do Grilo		
+Calçada do Grilo		
+Travessa do Noronha		
+Travessa do Noronha		
+Largo Rodrigues de Freitas		
+Calçada de Santo André		
+Largo do Terreirinho		
+Rua dos Cavaleiros		
+Rua Fernandes da Fonseca		
+Rua Fernandes da Fonseca		
+Rua de São Tomé		
+Rua do Zaire		
+Rua da Guiné		
+Rua de Dona Filipa de Vilhena		
+Avenida Visconde de Valmor		
+Calçada de Santa Apolónia		
+Rua Diogo do Couto		
+Rua do Mirante		
+Largo do Chafariz de Dentro		
+Rua Cais de Santarém		
+Rua de São João da Praça		
+Rua de São João da Praça		
+Largo da Sé		
+Rua do Arsenal		
+Largo Honório Barreto		
+Rua Aquiles Machado		
+		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 5 de Outubro		
+Rua José do Patrocínio		
+Avenida Paulo VI		
+		
+Rua Cardeal Saraiva		
+Rua Cardeal Saraiva		
+Rua Cardeal Saraiva		
+Rua de Campolide		
+Avenida José Malhoa		
+Rua Ivone Silva		
+Rua Ivone Silva		
+Rua Ivone Silva		
+Rua Ivone Silva		
+Rua Ivone Silva		
+Rua Laura Alves		
+Avenida José Malhoa		
+Avenida António Augusto de Aguiar		
+Praça de Espanha		
+Rua Júlio César Machado		
+Rua da Cintura do Porto de Lisboa		
+Rua da Cintura do Porto de Lisboa		
+Rua da Cintura do Porto de Lisboa		
+Rua Marquês de Fronteira		
+Rua Margarida de Abreu		
+Rua de São Bento		
+Rua Bacelar e Silva		
+Rua Dona Filipa de Vilhema		
+Rua Dona Filipa de Vilhema		
+Travessa do Marquês de Sampaio		
+Rua Brito Aranha		
+Beco do Grilo		
+Campo dos Mártires da Pátria		
+Largo Doutor Bernardino António Gomes (Pai)		
+Largo Doutor Bernardino António Gomes (Pai)		
+Travessa do Rosário de Santa Clara		
+Largo Doutor Bernardino António Gomes (Pai)		
+Largo Doutor Bernardino António Gomes (Pai)		
+Largo Doutor Bernardino António Gomes (Pai)		
+Largo Doutor Bernardino António Gomes (Pai)		
+Rua Guilherme Braga		
+Rua de São Lourenço		
+Rua de São Lourenço		
+Avenida Almirante Reis		
+Rua da Misericórdia		
+Rua da Misericórdia		
+Praça de Luís de Camões		
+Praça de Luís de Camões		
+Rua Marquês de Fronteira		
+Avenida António Augusto de Aguiar		
+Rua Marquês de Fronteira		
+		
+Praça Duque de Saldanha		
+Praça Duque de Saldanha		
+Praça Duque de Saldanha		
+Avenida Fontes Pereira de Melo		
+Avenida António Augusto Aguiar		
+Avenida António Augusto de Aguiar		
+Avenida António Augusto Aguiar		
+Cais do Sodré		
+Cais do Sodré		
+Cais do Sodré		
+Rua de São João da Mata		
+Largo de Santos-o-Velho		
+Largo de Santos-o-Velho		
+Rua de Santos-o-Velho		
+Rua das Trinas		
+Calçada do Marquês de Abrantes		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Rua da Penha de França		
+Rua Mestre António Martins		
+Rua da Penha de França		
+Rua da Penha de França		
+Rua Heliodoro Salgado		
+Praça Marquês de Pombal (Rotunda)		
+Praça Marquês de Pombal (Rotunda)		
+Praça do Príncipe Real		
+Praça do Príncipe Real		
+Praça do Príncipe Real		
+Travessa da Cruz da Rocha		
+Rua Áurea		
+Avenida Duque de Loulé		
+Avenida Duque de Loulé		
+Rua de São Lázaro		
+Rua do Saco		
+Cais do Sodré		
+Rotunda da Mouzinho de Albuquerque		
+Rotunda da Mouzinho de Albuquerque		
+Rotunda da Mouzinho de Albuquerque		
+Cais do Sodré		
+Praça do Duque de Saldanha		
+Avenida Praia da Vitória		
+Praça Marquês de Pombal (Rotunda)		
+Praça Marquês de Pombal (Rotunda)		
+Largo José Saramago		
+Rua de Dona Estefânia		
+Rua de São Lázaro		
+Rua da Palma		
+Rua da Alfândega		
+Largo do Mastro		
+Praça Marquês de Pombal		
+Rua Pinheiro Chagas		
+Praça Eduardo Mondlane		
+Avenida Paulo VI		
+Rua Dinah Silveira de Queiroz		
+Rua Alberto José Pessoa		
+Rua Padre António Ferreira		
+Rua Eduarda Lapa		
+Rua António Gedeão		
+Rua Dinah Silveira de Queiroz		
+Avenida Paulo VI		
+Rua do Benformoso		
+Praça Dom Pedro IV		
+Rua Basílio Teles		
+Rua Basílio Teles		
+Campo das Cebolas		
+Rua de São Miguel		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Rua Alves Redol		
+Largo de Santa Cruz do Castello		
+Largo de Santa Cruz do Castelo		
+Rua de Entre-Muros do Mirante		
+Largo da Penha de França		
+Rua Alves Redol		
+Avenida Duque de Ávila		
+Rua Visconde de Santarém		
+Avenida Rovisco Pais		
+Largo do Marquês do Lavradio		
+Largo do Marquês do Lavradio		
+Rua Azedo Gneco		
+Largo de São Rafael		
+Largo do Corpo Santo		
+Praça do Comércio		
+Avenida de Paris		
+Avenida de Paris		
+Rua Marques da Silva		
+Rua Marques da Silva		
+Rua Dona Filipa de Vilhema		
+Rua José do Patrocínio		
+Praça Marquês de Pombal		
+Praça Marquês de Pombal		
+Rua Bernardino Costa		
+Cais do Sodré		
+Rua de Sapadores		
+Rua do Vale de Santo António		
+Avenida General Roçadas		
+Cais do Sodré		
+Largo da Madre de Deus		
+Rua José da Bateira		
+Azinhaga da Salgada		
+Rua Marquês de Olhão		
+Azinhaga da Bruxa		
+Rua João César Monteiro		
+Praça do Duque da Terceira		
+Rua do Alecrim		
+Cais do Sodré		
+Rua de São Pedro de Alcântara		
+Rua de São Pedro de Alcântara		
+Rua de São Pedro de Alcântara		
+Avenida Conselheiro Fernando de Sousa		
+Rua de Campolide		
+Rua de Campolide		
+Rua da Escola Politécnica		
+Praça do Duque da Terceira		
+Avenida General Correia Barreto		
+Rua de Campolide		
+Avenida General Correia Barreto		
+Rua Dom Pedro V		
+Rua Dom Pedro V		
+Rua Dom Pedro V		
+Avenida da República		
+Avenida da República (Túnel)		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Praça Marquês de Pombal		
+Avenida de Paris		
+Praça dos Restauradores		
+Avenida Infante Dom Henrique		
+Rua de Xabregas		
+Rua da Madre de Deus		
+Praça Marquês de Pombal		
+Rua António Gonçalves		
+Avenida Marechal Francisco da Costa Gomes		
+Rotunda das Olaias		
+Alameda Dom Afonso Henriques		
+Alameda Dom Afonso Henriques		
+Avenida General Roçadas		
+Avenida General Roçadas		
+Rua Castelo Branco Saraiva		
+Rotunda da Mouzinho de Albuquerque		
+Rua do Arco do Carvalhão		
+Rua do Arco do Carvalhão		
+Praça Francisco Sá Carneiro		
+Rua Pedro Alexandrino		
+Rua de Sapadores		
+Rotunda das Olaias		
+Rotunda das Olaias		
+Praça Francisco Sá Carneiro		
+Rua Maria Pia		
+Praça São João Bosco		
+Rua Joaquim António de Aguiar		
+Rua C do Bairro da Liberdade		
+Calçada da Estação		
+Calçada da Estação		
+Calçada dos Mestres		
+Rua Dom Carlos de Mascarenhas		
+Rua da Artilharia 1		
+Rua da Palma		
+Praça dos Restauradores		
+Praça São João Bosco		
+Praça São João Bosco		
+Rua da Estrela		
+		
+Rua dos Caminhos de Ferro		
+Avenida Duque de Loulé		
+Avenida Manuel da Maia		
+Rua Dom João V		
+Praça António José de Almeida		
+Rua Quirino da Fonseca		
+Alameda Dom Afonso Henriques		
+Alameda Dom Afonso Henriques		
+Alameda Dom Afonso Henriques		
+Praça Francisco Sá Carneiro		
+Largo Dona Estefânia		
+Largo de Dona Estefânia		
+Largo Dona Estefânia		
+Rotunda das Olaias		
+Praça Dom Pedro IV		
+Avenida João XXI		
+Avenida de Roma		
+Avenida General Roçadas		
+Largo Dona Estefânia		
+Largo Dona Estefânia		
+Rua Carlos Mardel		
+Rua Eduardo Brazão		
+Rua Cesário Verde		
+Avenida Marechal Francisco Costa Gomes		
+Paço da Rainha		
+Rua Morais Soares		
+		
+Rotunda das Olaias		
+Rotunda das Olaias		
+Avenida Engenheiro Arantes e Oliveira		
+Rua Professora Margarida Vieira Mendes		
+Calçada da Picheleira		
+Rua Carlos Botelho		
+Rua Carlos Botelho		
+Avenida Marechal Francisco Costa Gomes		
+Rua Sousa Martins		
+Avenida José Malhoa		
+Rua Sousa Lopes		
+Rua da Senhora da Saúde		
+Rua da Voz do Operário		
+Rua do Chão da Feira		
+Praça Marquês de Pombal		
+Avenida Calouste Gulbenkian		
+Calçada da Estação		
+Praça José Fontana		
+Avenida da República		
+Rua de Olivença		
+Rua Professor Mira Fernandes		
+Rua de Olivença		
+Largo Dona Estefânia		
+Largo Dona Estefânia		
+Rua Alexandre Herculano		
+Rua de Buenos Aires		
+Rua de Sant'Ana à Lapa		
+Calçada da Estrela		
+Rua de São Bento		
+Praça do Príncipe Real		
+Rua da Escola Politécnica		
+Praça São João Bosco		
+Rua Gomes Freire		
+Rua Carlos Alberto da Mota Pinto		
+Rua Ferreira Borges		
+Rua Correia Teles		
+Rua do 4 de Infantaria		
+Rua do 4 de Infantaria		
+Rua do 4 de Infantaria		
+Rua Almeida e Sousa		
+Rua Sampaio Bruno		
+Praça São João Bosco		
+Praça São João Bosco		
+Rua Carlos Alberto da Mota Pinto		
+Praça Francisco Sá Carneiro		
+Avenida Carlos Pinhão		
+Rua Dinah Silveira de Queiroz		
+Azinhaga da Bruxa		
+Rua José da Bateira		
+Rua Marquês de Olhão		
+Largo da Oliveirinha		
+Avenida Infante Santo		
+Avenida Infante Santo		
+Avenida Fontes Pereira de Melo		
+Avenida Calouste Gulbenkian		
+Avenida Calouste Gulbenkian		
+Avenida Calouste Gulbenkian		
+Avenida Calouste Gulbenkian		
+Avenida Engenheiro Duarte Pacheco		
+Rua da Cintura do Porto de Lisboa		
+Rua da Alfândega		
+Avenida Coronel Eduardo Galhardo		
+Avenida Coronel Eduardo Galhardo		
+Avenida Coronel Eduardo Galhardo		
+Avenida Coronel Eduardo Galhardo		
+Avenida Coronel Eduardo Galhardo		
+Avenida Coronel Eduardo Galhardo		
+Avenida Coronel Eduardo Galhardo		
+Rua de São Bento		
+Avenida Almirante Reis		
+Rua dos Fanqueiros		
+Rua dos Fanqueiros		
+Rua do Comércio		
+Rua do Comércio		
+Rua da Senhora da Glória		
+Largo do Rato		
+Rua da Estrela		
+Rua de São Domingos		
+Rotunda 1 ao Vale de Chelas		
+Avenida Marechal Francisco Costa Gomes		
+Calçada do Carrascal		
+Calçada da Picheleira		
+Rua Barão de Sabrosa		
+Rua Jacinta Marto		
+Rua Filipe da Mata		
+Rua Cardeal Mercier		
+Praça dos Restauradores		
+Rua Cruzado Osberno		
+Praça dos Restauradores		
+Cais do Sodré		
+Avenida Engenheiro Arantes e Oliveira		
+Rua do Sacramento a Alcântara		
+Rua Correia Garção		
+Rua Carlos Alberto da Mota Pinto		
+Rua Ferreira Borges		
+Rua Sampaio Bruno		
+Rua de Infantaria 16		
+Rua Tomás da Anunciação		
+Rua Tomás da Anunciação		
+Rua Pereira e Sousa		
+Rua Ferreira Borges		
+Rua de Campo de Ourique		
+Rua Silva Carvalho		
+Praça da Figueira		
+Praça dos Restauradores		
+Rua da Prata		
+Rua da Alfândega		
+Praça do Duque da Terceira		
+Avenida 24 de Julho		
+Cais do Sodré		
+Campo das Cebolas		
+Beco da Galheta		
+Travessa dos Remolares		
+Calçada do Ferragial		
+Largo Rafael Bordalo Pinheiro		
+Rua Veríssimo Sarmento		
+Rua Ricardo Espírito Santo		
+Rua da Estrela		
+Rua da Estrela		
+Rua Engenheiro Santos Simões		
+Rua Al Berto		
+Rua da Cintura do Porto de Lisboa		
+Rua da Cintura do Porto de Lisboa		
+		
+Rua António Maria Cardoso		
+Rua Vítor Cordon		
+Rua João do Nascimento Costa		
+Rua Doutor Manuel Espírito Santo		
+Rua António Joaquim Anselmo		
+Avenida Engenheiro Arantes e Oliveira		
+Rua do Jardim à Estrela		
+Largo Vitorino Damásio		
+Avenida Dom Carlos I		
+Avenida Conselheiro Fernando de Sousa		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+Rua Castilho		
+Rua Marquês de Fronteira		
+Rua Castilho		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+Rua António Pereira Carrilho		
+Rua António Pereira Carrilho		
+Rua Alves Torgo		
+Rua António Pereira Carrilho		
+Rua Quirino da Fonseca		
+Rua António Pereira Carrilho		
+Rua António Pereira Carrilho		
+Rua António Pereira Carrilho		
+Rua António Pedro		
+Rua Marquês de Olhão		
+Praça António José de Almeida		
+		
+Calçada da Estação		
+Calçada da Estação		
+Rua B do Bairro da Liberdade		
+Rua B do Bairro da Liberdade		
+		
+Rua B do Bairro da Liberdade		
+Rua B do Bairro da Liberdade		
+Rua B do Bairro da Liberdade		
+Calçada da Estação		
+Calçada da Picheleira		
+Rua Dom Francisco Manuel de Melo		
+Rua Castilho		
+		
+Rua Simões Telhadas		
+Rua de Marvila		
+Rua Joaquim António de Aguiar		
+Avenida Carlos Pinhão		
+Avenida Carlos Pinhão		
+Avenida Carlos Pinhão		
+Rua Silveira Peixoto		
+Rua Silveira Peixoto		
+Impasse C à Rua 5/6 ao Vale de Chelas		
+		
+Rua do Alecrim		
+Praça do Duque da Terceira		
+Praça Duque de Saldanha		
+Praça Duque de Saldanha		
+Praça do Duque de Saldanha		
+Praça do Duque de Saldanha		
+Avenida Casal Ribeiro		
+Praça do Duque de Saldanha		
+Avenida das Forças Armadas		
+Avenida das Forças Armadas		
+Rua Doutor Júlio Dantas		
+Avenida Afonso Costa		
+Avenida Afonso Costa		
+Avenida Almirante Reis		
+Praça de Londres		
+Praça de Londres		
+Avenida Elias Garcia		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Avenida da República		
+Campo de Santa Clara		
+Rua da Voz do Operário		
+Rua da Ribeira Nova		
+Rua de São Paulo		
+Largo do Conde Barão		
+Rua Correia Garção		
+Rua Dom Pedro V		
+Largo do Calhariz		
+Largo Doutor António Sousa de Macedo		
+Travessa dos Poiais		
+Travessa do Poço dos Negros		
+Travessa do Oleiro		
+Rua dos Poiais de São Bento		
+Rua de Caetano Palha		
+Rua Fresca		
+Rua do Poço dos Negros		
+Largo Doutor António Sousa de Macedo		
+Travessa do Convento de Jesus		
+Travessa de Dona Estefânia		
+Rua de São Paulo		
+Rua de São Paulo		
+Rua de Sant'Ana à Lapa		
+Avenida Infante Santo		
+Avenida Infante Santo		
+Avenida Infante Santo		
+Avenida Infante Santo		
+		
+Rua de Sant'Ana à Lapa		
+Rua de Sant'Ana à Lapa		
+Avenida Infante Santo		
+Rua de Sant'Ana à Lapa		
+Rua Possidónio da Silva		
+Rua Possidónio da Silva		
+Rua Possidónio da Silva		
+Largo das Necessidades		
+Avenida da República (Túnel)		
+Avenida da República (Túnel)		
+Avenida da República (Túnel)		
+Avenida da República (Túnel)		
+Campo de Santa Clara		
+Campo de Santa Clara		
+Campo de Santa Clara		
+Campo Pequeno		
+Rua das Escolas Gerais		
+Rua Dom António Luís de Sousa		
+Largo Doutor Bernardino António Gomes (Pai)		
+Rua Dom António Luís de Sousa		
+Praça de Espanha		
+Avenida Columbano Bordalo Pinheiro		
+Avenida Santos Dumont		
+Avenida dos Combatentes		
+Avenida da República (Túnel)		
+Avenida da República (Túnel)		
+Avenida da República (Túnel)		
+Avenida da República (Túnel)		
+Praça Marechal Humberto Delgado		
+Praça Marechal Humberto Delgado		
+Largo do Terreirinho		
+Rua Professor Lima Basto		
+Praça de Londres		
+Avenida António Augusto de Aguiar		
+Eixo Norte-Sul		
+Avenida Calouste Gulbenkian		
+Impasse à Rua Marciano Henriques da Silva		
+Rua Marquês de Fronteira		
+Praça de Espanha		
+		
+Avenida Columbano Bordalo Pinheiro		
+Praça de Espanha		
+Avenida Santos Dumont		
+Praça de Espanha		
+Praça de Espanha		
+Praça de Espanha		
+Praça de Espanha		
+Praça de Espanha		
+Praça de Espanha		
+Praça de Espanha		
+Praça de Espanha		
+Praça de Espanha		
+Avenida Santos Dumont		
+Praça de Espanha		
+Praça de Espanha		
+Praça de Espanha		
+Praça de Espanha		
+Praça de Espanha		
+Avenida Santos Dumont		
+Rua Nova da Trindade		
+Avenida da Liberdade		
+Rua da Senhora da Glória		
+Alameda Dom Afonso Henriques		
+Pátio 26 à Rua de Cima de Chelas		
+Pátio 26 à Rua de Cima de Chelas		
+Pátio 26 à Rua de Cima de Chelas		
+		
+Alameda Dom Afonso Henriques		
+Rua General Farinha Beirão		
+Rua Álvaro Coutinho		
+Rua Doutor Manuel Espírito Santo		
+Rua Doutor Manuel Espírito Santo		
+Rua Egas Moniz		
+Rua Actor João Rosa		
+Largo do Broma		
+Avenida do Santo Condestável		
+Largo de Chelas		
+Estrada de Chelas		
+Azinhaga da Salgada		
+Largo da Quinta das Salgadas		
+Avenida Infante Dom Henrique		
+Rua Frederico Perry Vidal		
+Campo Pequeno		
+Campo Pequeno		
+Rua Mário Botas		
+Rua Marquês de Fronteira		
+Avenida Sidónio Pais		
+Rua da Senhora do Monte		
+Rua Marciano Henriques da Silva		
+Rua Marciano Henriques da Silva		
+Rua das Canastras		
+Calçada da Senhora do Monte		
+Rua da Senhora do Monte		
+Rua da Senhora da Glória		
+Rua do Cardal de São José		
+Rua Marquês de Fronteira		
+Beco das Beatas		
+Rua da Graça		
+Rua Marquês de Fronteira		
+Beco das Beatas		
+Rua das Beatas		
+Beco dos Peixinhos		
+Rua Actor António Cardoso		
+Rua Coronel Luna de Oliveira		
+Escadinhas da Praia		
+Rua Marquês de Fronteira		
+Rua Cais de Santarém		
+Rua Vítor Bastos		
+Rua Leandro Braga		
+Rua André Monteiro da Cruz		
+Calçada dos Mestres		
+Calçada dos Mestres		
+Rua General Taborda		
+Rua General Taborda		
+Alto do Carvalhão		
+Rua Dom António Luís de Sousa		
+		
+Praça de Espanha		
+Rua Professor Lima Basto		
+Rua Professor Lima Basto		
+Rua Professor Lima Basto		
+Avenida Columbano Bordalo Pinheiro		
+Avenida Barbosa du Bocage		
+Avenida Defensores de Chaves		
+Avenida Barbosa du Bocage		
+Avenida Defensores de Chaves		
+Avenida Barbosa du Bocage		
+Avenida Barbosa du Bocage		
+Avenida Defensores de Chaves		
+Praça de Espanha		
+Avenida da República		
+Avenida Santos Dumont		
+Rua Vítor Bastos		
+Praça José Fontana		
+Praça Marechal Humberto Delgado		
+		
+		
+Praça dos Restauradores		
+Avenida Carlos Pinhão		
+Avenida Duque de Loulé		
+Avenida António José de Almeida		
+Avenida da Liberdade		
+Rua Barata Salgueiro		
+Rua Cova da Moura		
+Rua de Campolide		
+Rua Francisco Gentil Martins		
+Rua Francisco Gentil Martins		
+Avenida Infante Dom Henrique		
+Rua da Madalena		
+Rua da Conceição		
+Avenida de Berna		
+Rua Tenente Espanca		
+Avenida de Berna		
+Avenida de Berna		
+Travessa da Rabicha		
+Rua Professor Lima Basto		
+Rua Professor Lima Basto		
+Travessa do Alto da Eira		
+Rua Sousa Pinto		
+Rua Sousa Pinto		
+Rua Sousa Pinto		
+Rua Sousa Pinto		
+Rua da Artilharia 1		
+Rua Almeida e Sousa		
+Rua Azedo Gneco		
+Rua Maria Pia		
+Rua de Infantaria 16		
+Rua Francisco Metrass		
+Rua Saraiva de Carvalho		
+Rua Saraiva de Carvalho		
+Travessa de Cima dos Quartéis		
+Rua Francisco Metrass		
+Rua Almeida e Sousa		
+Rua Silva de Carvalho		
+Rua Silva Carvalho		
+Rua Coelho da Rocha		
+Rua Azedo Gneco		
+Rua de Infantaria 16		
+Rua Marquês Sá da Bandeira		
+Avenida de Berna		
+Avenida de Berna		
+Avenida de Berna		
+Avenida Infante Dom Henrique		
+Boqueirão da Ponte de Lama		
+Pátio do Tijolo		
+Avenida Engenheiro Duarte Pacheco		
+Alameda Dom Afonso Henriques		
+Avenida Guerra Junqueiro		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Rua Joaquim António de Aguiar		
+Rua de Artilharia Um		
+Rua Tierno Galvan		
+Travessa do Tarujo		
+Rua de Campolide		
+Rua de Campolide		
+Rua de Campolide		
+Travessa do Tarujo		
+Rua de Campolide		
+Rua Francisco Gentil Martins		
+Rua de Campolide		
+Rua Francisco Gentil Martins		
+Rua de Campolide		
+Rua de Campolide		
+Rua General Taborda		
+Rua Dom António Luís de Sousa		
+Calçada da Quintinha		
+Calçada da Quintinha		
+Calçada dos Sete Moinhos		
+Rua da Bela-Flor		
+Rua do Arco do Carvalhão		
+Rua Almirante Afonso Cerqueira		
+Avenida Elias Garcia		
+Avenida Elias Garcia		
+Rua Gomes Freire		
+Avenida José Malhoa		
+Avenida José Malhoa		
+Avenida José Malhoa		
+Avenida José Malhoa		
+Rua Ramalho Ortigão		
+Rua Ramalho Ortigão		
+Travessa das Inglesinhas		
+Travessa do Norte à Lapa		
+Rua de Sapadores		
+Campo de Santa Clara		
+Largo da Graça		
+Avenida António Augusto de Aguiar		
+Avenida António Augusto de Aguiar		
+Avenida António Augusto de Aguiar		
+Rua Marquês Sá da Bandeira		
+Rua Marquês Sá da Bandeira		
+Avenida Elias Garcia		
+Avenida Elias Garcia		
+Avenida Elias Garcia		
+Avenida Sidónio Pais		
+Alameda Cardeal Cerejeira		
+Avenida António Augusto de Aguiar		
+Avenida António Augusto de Aguiar		
+Avenida António Augusto de Aguiar		
+Avenida António Augusto de Aguiar		
+		
+Rua da Artilharia 1		
+Rua Joaquim António de Aguiar		
+Praça Marquês de Pombal		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+Avenida António Augusto de Aguiar		
+Avenida António Augusto de Aguiar		
+Avenida Columbano Bordalo Pinheiro		
+Largo do Rilvas		
+		
+Arco das Portas do Mar		
+Rua Luciano Cordeiro		
+Avenida da Liberdade		
+Praça da Alegria		
+Rua das Taipas		
+Rua de São Pedro de Alcântara		
+		
+Rua Cardeal Mercier		
+Praça Marechal Humberto Delgado		
+Avenida Miguel Bombarda		
+Avenida Defensores de Chaves		
+Campo Pequeno		
+Rua Tenente Espanca		
+Avenida Santos Dumont		
+Túnel do Rego		
+		
+Rua Sousa Lopes		
+Rua Sousa Lopes		
+Rua Sousa Lopes		
+Largo da Graça		
+Rua da Alfândega		
+Rua Forno do Tijolo		
+Rua Forno do Tijolo		
+Rua de Timor		
+Rua de Timor		
+Rua de São Lázaro		
+Rua do Desterro		
+Rua de Dona Estefânia		
+Avenida Manuel da Maia		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Rua Alexandre Herculano		
+Rua Camilo Castelo Branco		
+Rua Alexandre Herculano		
+Cais do Sodré		
+Estrada das Laranjeiras		
+Praça Nuno Rodrigues dos Santos		
+Avenida José Malhoa		
+Rua Eduardo Malta		
+Rua do Milagre de Santo António		
+Largo do Picadeiro		
+		
+Avenida Conselheiro Fernando de Sousa		
+Avenida Conselheiro Fernando de Sousa		
+Avenida Conselheiro Fernando de Sousa		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Engenheiro Duarte Pacheco		
+Avenida Conselheiro Fernando de Sousa		
+Avenida Conselheiro Fernando de Sousa		
+Avenida Conselheiro Fernando de Sousa		
+Avenida Engenheiro Duarte Pacheco		
+Rua Engenheiro Vieira da Silva		
+Praça José Fontana		
+Praça José Fontana		
+Praça José Fontana		
+Praça José Fontana		
+Praça José Fontana		
+Rua Carlos Alberto da Mota Pinto		
+Travessa do Conde de Avintes		
+Rua Braamcamp		
+Avenida António José de Almeida		
+Avenida Almirante Reis		
+Avenida Almirante Reis		
+Rua Marques da Silva		
+Rua Álvaro Coutinho		
+Avenida Almirante Reis		
+Rua Álvaro Coutinho		
+Rua Braamcamp		
+Rua Braamcamp		
+Rua Braamcamp		
+Rua Braamcamp		
+Rua Braamcamp		
+Rua Castilho		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+Avenida Sidónio Pais		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+Avenida da Liberdade		
+Avenida da Liberdade		
+Praça Marquês de Pombal		
+Avenida da Liberdade		
+Rua Barata Salgueiro		
+Avenida da Liberdade		
+Avenida da Liberdade		
+Avenida da Liberdade		
+Avenida da Liberdade		
+Avenida da Liberdade		
+Avenida da Liberdade		
+Avenida da Liberdade		
+Avenida da Liberdade		
+Avenida da Liberdade		
+Rua Braamcamp		
+Calçada da Estação		
+Calçada da Estação		
+Avenida Infante Santo		
+Campo dos Mártires da Pátria		
+Avenida Defensores de Chaves		
+Avenida Visconde de Valmor		
+Avenida Miguel Bombarda		
+Avenida Defensores de Chaves		
+Avenida Duque de Ávila		
+Avenida Defensores de Chaves		
+Avenida Defensores de Chaves		
+Avenida Duque de Ávila		
+Avenida Praia da Vitória		
+Avenida Defensores de Chaves		
+Avenida Praia da Vitória		
+Avenida Defensores de Chaves		
+Avenida Praia da Vitória		
+Avenida Praia da Vitória		
+Avenida Defensores de Chaves		
+Avenida 5 de Outubro		
+Avenida 5 de Outubro		
+Rua Sylvio Rebelo		
+Rua Bacelar e Silva		
+Campo de Santa Clara		
+Campo de Santa Clara		
+Rua de Olivença		
+Alameda Dom Afonso Henriques		
+Rua da Conceição		
+Rua do Crucifixo		
+Rua do Recolhimento		
+Rua Eduardo Malta		
+Rua Eduardo Malta		
+Rua Eduardo Malta		
+Rua Eduardo Malta		
+Praça Marechal Humberto Delgado		
+Praça Marechal Humberto Delgado		
+Praça Marechal Humberto Delgado		
+Praça Marechal Humberto Delgado		
+Praça Marechal Humberto Delgado		
+Alameda Edgar Cardoso		
+		
+Alameda Edgar Cardoso		
+		
+		
+Alameda Edgar Cardoso		
+Largo do Rato		
+Rua da Regueira		
+Rua Silva Carvalho		
+Rua Marquês de Fronteira		
+Rua Marquês de Fronteira		
+Largo do Rato		
+Praça Marechal Humberto Delgado		
+Rua Bernardino Costa		
+Avenida General Correia Barreto		
+Rua de Campolide		
+Rua de Campolide		
+Rua de Campolide		
+Avenida José Malhoa		
+Rua de Campolide		
+Rua 12		
+Rua Morais Soares		
+Rua Carvalho Araújo		
+Rua Carvalho Araújo		
+Avenida Miguel Torga		
+Avenida Miguel Torga		
+Avenida Miguel Torga		
+Praça Marechal Humberto Delgado		
+Praça Marechal Humberto Delgado		
+Avenida Padre Manuel da Nóbrega		
+Rua Castilho		
+Rua Dom Francisco Manuel de Melo		
+Rua Dom Francisco Manuel de Melo		
+Rua Dom Francisco Manuel de Melo		
+Avenida José Malhoa		
+Avenida José Malhoa		
+Largo Doutor Bernardino António Gomes (Pai)		
+Largo Doutor Bernardino António Gomes (Pai)		
+Rua da Cintura do Porto de Lisboa		
+Largo do Conde Barão		
+Vila Flamiano		
+Avenida de Brasília		
+Avenida de Brasília		
+Avenida de Brasília		
+Beco da Galheta		
+		
+		
+		
+Rua de Campolide		
+Rua de Campolide		
+Rua de Campolide		
+Travessa de Estêvão Pinto		
+Rua de Campolide		
+Rua de Campolide		
+Rua Engenheiro Vieira da Silva		
+Avenida Fontes Pereira de Melo		
+Praça do Duque de Saldanha		
+Praça Duque de Saldanha		
+Largo de Andaluz		
+Largo de Andaluz		
+Largo de Andaluz		
+Largo das Palmeiras		
+Largo de Andaluz		
+Avenida Afonso Costa		
+Avenida Afonso Costa		
+Rua Actriz Virginia		
+		
+		
+Praça António José de Almeida		
+Rua Saraiva de Carvalho		
+Rua Tomás da Anunciação		
+Rua Coelho da Rocha		
+		
+		
+Rua Saraiva de Carvalho		
+		
+Rua de Santa Isabel		
+Avenida Pedro Álvares Cabral		
+Rua Correia Teles		
+Rua Sampaio Bruno		
+Rua Saraiva de Carvalho		
+Rua das Amoreiras		
+Rua Dom João V		
+Calçada Ribeiro Santos		
+Calçada Ribeiro Santos		
+Avenida Dom Carlos I		
+Rua Dom Luís I		
+		
+Avenida Mouzinho de Albuquerque		
+Avenida Mouzinho de Albuquerque		
+Avenida Mouzinho de Albuquerque		
+Rua do Instituto Industrial		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Rua Doutor Nicolau de Bettencourt		
+Avenida 24 de Julho		
+Calçada da Senhora do Monte		
+Rua Damasceno Monteiro		
+Calçada da Senhora do Monte		
+Praça de Londres		
+Rua de Campolide		
+Praça Marechal Humberto Delgado		
+Rua de Campolide		
+Avenida 5 de Outubro		
+Rua Bartolomeu de Gusmão		
+Rua dos Remolares		
+Travessa dos Remolares		
+Rua de Cima de Chelas		
+Azinhaga do Broma		
+Azinhaga do Broma		
+Rua de Ponta Delgada		
+Rua António Pereira Carrilho		
+Rua de São Sebastião da Pedreira		
+Rua de São Sebastião da Pedreira		
+Rua Sarmento de Beires		
+Rua Sarmento de Beires		
+Largo José Saramago		
+Rua Azedo Gneco		
+Praça do Chile		
+Praça do Chile		
+Rua Baixo Horizonte		
+Rua Maria		
+Rua Capitão Ramires		
+Avenida Duque de Ávila		
+Avenida Duque de Ávila		
+Avenida Duque de Ávila		
+Avenida da República		
+Avenida João Crisóstomo		
+		
+Rua Luís Gonzaga Pereira		
+Rua do Cura		
+		
+Rua de Campolide		
+Rua Canto da Maya		
+Rua de Campolide		
+Rua Francisco Gentil Martins		
+Vila Rodrigues		
+Rua da Quinta dos Ourives		
+Pátio do Sequeiro		
+Rua dos Cordoeiros		
+Praça Marechal Humberto Delgado		
+Praça Marechal Humberto Delgado		
+Avenida Infante Dom Henrique		
+Vila de São João		
+Calçada dos Barbadinhos		
+Calçada dos Barbadinhos		
+Rua de Sapadores		
+Avenida António Augusto de Aguiar		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Avenida Infante Dom Henrique		
+Beco dos Vidros		
+Beco dos Vidros		
+Rua de Sapadores		
+Rua B		
+Calçada dos Barbadinhos		
+Calçada dos Barbadinhos		
+Rua de Entre-Muros do Mirante		
+Estrada de Benfica		
+Praça Marechal Humberto Delgado		
+Rua das Furnas		
+Rua das Furnas		
+Rua das Furnas		
+Praça Marechal Humberto Delgado		
+Praça Marechal Humberto Delgado		
+Avenida das Forças Armadas		
+Avenida dos Combatentes		
+Rua do Salitre		
+		
+		
+Campo dos Mártires da Pátria		
+		
+Praça da Estrela		
+Rua de São Paulo		
+Avenida 5 de Outubro		
+Rua Pedro Nunes		
+		
+Beco Horta das Canas		
+Rua José Alves ao Grilo		
+Vila Rogélia		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Avenida 24 de Julho		
+Rua de Santo António à Estrela		
+Rua da Estrela		
+Rua da Estrela		
+Rua da Estrela		
+Praça da Estrela		
+Praça da Estrela		
+Rua Domingos Sequeira		
+		
+		
+Rua da Estrela		
+Avenida Infante Santo		
+Rua da Estrela		
+Rua da Estrela		
+Praça da Estrela		
+Praça da Estrela		
+Rua Domingos Sequeira		
+Rua Domingos Sequeira		
+Praça da Estrela		
+Rua de São Jorge		
+Rua de São Jorge		
+Rua Ribeiro Sanches		
+Rua Ribeiro Sanches		
+Travessa da Amoreira		
+Rua do Olival		
+Avenida Infante Santo		
+Calçada da Pampulha		
+Praça da Estrela		
+Rua de João de Deus		
+Rua José Falcão		
+Rua José Falcão		
+Rua J A1		
+Calçada da Cruz da Pedra		
+Rua Nélson de Barros		
+Rua da Madre de Deus		
+Rua Nélson de Barros		
+Avenida 5 de Outubro		
+Avenida João Crisóstomo		
+Avenida 5 de Outubro		
+Rua da Mesquita		
+Praça do Duque de Saldanha		
+Rua Ferreira Borges		
+Rua Coelho da Rocha		
+Travessa dos Fiéis de Deus		
+Travessa do Conde de Soure		
+Travessa dos Fiéis de Deus		
+Rua Cristóvão Falcão		
+Rua Barão de Sabrosa		
+Rua da Conceição		
+Rua da Prata		
+Estrada das Laranjeiras		
+Rua das Furnas		
+Rua das Furnas		
+Rua das Furnas		
+Rua Carlos Alberto da Mota Pinto		
+Avenida Infante Santo		
+Avenida Infante Santo		
+Rua de São Domingos		
+Rua de São Domingos		
+Rua das Furnas		
