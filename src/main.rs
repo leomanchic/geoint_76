@@ -60,7 +60,7 @@ async fn image_scarp(hash_map: &HashMap<String,String>) -> color_eyre::Result<()
     for iter in hash_map.keys(){
         println!("{}",&iter);
         let driver = WebDriver::new("http://localhost:4444", caps.clone()).await?;
-        driver.maximize_window().await?;
+        // driver.set_window_rect(0, 0, 400, 600).await?;
         driver.goto(&hash_map[iter]).await?;
         std::thread::sleep(std::time::Duration::from_secs(2));//Прогрузка страницы
         let html = driver.source().await?;
