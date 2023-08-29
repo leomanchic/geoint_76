@@ -1,4 +1,3 @@
-use core::panic;
 use std::collections::HashMap;
 use std::fs::{self,File};
 use std::io::{self, BufRead,Write,BufReader};
@@ -34,6 +33,11 @@ fn browser_look()  -> Result<(),Box<dyn std::error::Error>>{
     let file = read_file("streetlinks.txt").expect("E,FNF");
     let mut link = file.lines();
 
+    // for iter in link.{
+    //     webbrowser::open(&link.next().expect("Returned None").expect("Returned Error")).unwrap();
+    //   //    println!("{:?}",link.next()) ;
+    //   }
+
     for iter in 0..50{
       webbrowser::open(&link.next().expect("Returned None").expect("Returned Error")).unwrap();
     //    println!("{:?}",link.next()) ;
@@ -41,50 +45,24 @@ fn browser_look()  -> Result<(),Box<dyn std::error::Error>>{
     Ok(())
 }
 
-
-
-// fn main() {
-//     let filepath: &str = r"C:\Users\Gurman\Documents\Rust\geoint_76\media\streets.txt";
-//     let reader = read_file(filepath).expect("Error occured");
-//     let mapa = dict_processing(reader).unwrap();
-//     for i in mapa.values(){
-//         println!("{:?}",i);
-//     }
-//     println!("{}",mapa.len());
-//     // browser_look();
-// }
-
 #[tokio::main]
-async fn main() -> color_eyre::Result<()> {
-    // The use of color_eyre gives much nicer error reports, including making
-    // it much easier to locate where the error occurred.
-    let filepath: &str = r"C:\Users\Gurman\Documents\Rust\geoint_76\media\streets.txt";
-    let reader = read_file(filepath).expect("Error occured");
-    let mapa = dict_processing(reader).unwrap();
-    let steetlinks = "streetlinks.txt";
-    println!("{}",mapa.len());
-
+async fn image_scarp(hash_map: &HashMap<String,String>) -> color_eyre::Result<()>{
     color_eyre::install()?;
 
-    let user_agent = "Custom";
+    let user_agent: &str = "Custom";
 
-    // Set user agent via Firefox preferences.
     let mut prefs = FirefoxPreferences::new();
     prefs.set_user_agent(user_agent.to_string())?;
 
     let mut caps = FirefoxCapabilities::new();
     caps.set_preferences(prefs)?;
 
-    // let driver = WebDriver::new("http://localhost:4444", caps).await?;
-    let file = read_file(steetlinks).expect("E,FNF");
-    // let mut link = file.lines();
-    for iter in mapa.keys(){
+    for iter in hash_map.keys(){
         println!("{}",&iter);
         let driver = WebDriver::new("http://localhost:4444", caps.clone()).await?;
-        driver.goto(&mapa[iter]).await?;
+        driver.goto(&hash_map[iter]).await?;
         std::thread::sleep(std::time::Duration::from_secs(2));//Прогрузка страницы
-        let mut  html = driver.source().await?;
-        // let idx = html.find("https://streetviewpixels-pa.googleapis.com/v1").unwrap();
+        let html = driver.source().await?;
         let re = Regex::new(r"https://streetviewpixels-pa\.googleapis\.com/v1/thumbnail\?panoid=.+?100").unwrap();
     
         let dates: Vec<String> = re.find_iter(&html).map(|m| m.as_str().to_string()).collect();
@@ -98,11 +76,22 @@ async fn main() -> color_eyre::Result<()> {
             let output  =  File::create(&name)?;
             image.save(name).unwrap();
             
-            // driver.close_window().await?;
-            
         }
         
-        // driver.close_window().await?;//
     }
+
     Ok(())
+
+}
+
+fn main() {
+    // The use of color_eyre gives much nicer error reports, including making
+    // it much easier to locate where the error occurred.
+    let filepath: &str = r"C:\Users\Gurman\Documents\Rust\geoint_76\media\streets.txt";
+    let reader = read_file(filepath).expect("Error occured");
+    let mapa = dict_processing(reader).unwrap();
+    // let steetlinks = "streetlinks.txt";
+    println!("{}",mapa.len());
+    image_scarp(&mapa).expect("Error");
+
 }
