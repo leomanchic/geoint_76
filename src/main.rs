@@ -9,15 +9,35 @@ use thirtyfour::common::capabilities::firefox::FirefoxPreferences;
 use thirtyfour::{FirefoxCapabilities, WebDriver};
 
 
+#[derive(Debug)]
+
+struct  Files{
+    all_streets: String, // файл , где храняться все улицы
+    links : String, // файл, куда сохраняем сформированые ссылки 
+    store: String, // каталог, куда сохраняют картинки 
+}
+
+
+impl Files{
+    pub fn new(lin:String, a_s: String, stor: String) -> Self{
+        Self{
+             links:lin,
+             all_streets:a_s,
+             store: stor,
+            }
+    }
+}
+
+
 fn read_file(filepath: &str) -> Result<BufReader<File>, Box<dyn std::error::Error>> {
     let file = File::open(filepath)?;
     let reader = BufReader::new(file);
     Ok(reader)
 }
 
-fn dict_processing(file:BufReader<File>) -> Result<HashMap<String,String>,Box<dyn std::error::Error>>{
+fn dict_processing(file:BufReader<File>,linkfile:&str) -> Result<HashMap<String,String>,Box<dyn std::error::Error>>{
     let mut dictionary: HashMap<String, String> = HashMap::new();
-    let mut file_w = File::create("streetlinks.txt")?;
+    let mut file_w = File::create(linkfile)?;
     let lines:Vec<String> = file.lines().map(|x| x.unwrap().trim().to_string()).collect();
     for street in lines{
         if !dictionary.contains_key(&street){
@@ -33,11 +53,6 @@ fn browser_look()  -> Result<(),Box<dyn std::error::Error>>{
     let file = read_file("streetlinks.txt").expect("E,FNF");
     let mut link = file.lines();
 
-    // for iter in link.{
-    //     webbrowser::open(&link.next().expect("Returned None").expect("Returned Error")).unwrap();
-    //   //    println!("{:?}",link.next()) ;
-    //   }
-
     for iter in 0..50{
       webbrowser::open(&link.next().expect("Returned None").expect("Returned Error")).unwrap();
     //    println!("{:?}",link.next()) ;
@@ -46,7 +61,7 @@ fn browser_look()  -> Result<(),Box<dyn std::error::Error>>{
 }
 
 #[tokio::main]
-async fn image_scarp(hash_map: &HashMap<String,String>) -> color_eyre::Result<()>{
+async fn image_scarp(hash_map: &HashMap<String,String>, images_folder: &str) -> color_eyre::Result<()>{
     color_eyre::install()?;
 
     let user_agent: &str = "Custom";
@@ -60,11 +75,11 @@ async fn image_scarp(hash_map: &HashMap<String,String>) -> color_eyre::Result<()
     for iter in hash_map.keys(){
         println!("{}",&iter);
         let driver = WebDriver::new("http://localhost:4444", caps.clone()).await?;
-        // driver.set_window_rect(0, 0, 400, 600).await?;
+        driver.set_window_rect(0, 0, 400, 400).await?;
         driver.goto(&hash_map[iter]).await?;
         std::thread::sleep(std::time::Duration::from_secs(2));//Прогрузка страницы
         let html = driver.source().await?;
-        let re = Regex::new(r"https://streetviewpixels-pa\.googleapis\.com/v1/thumbnail\?panoid=.+408&h.+?100").unwrap();
+        let re = Regex::new(r"https://streetviewpixels-pa\.googleapis\.com/v1/thumbnail\?panoid=.+?100").unwrap();
     
         let dates: Vec<String> = re.find_iter(&html).map(|m| m.as_str().to_string()).collect();
         for s in dates {
@@ -73,7 +88,7 @@ async fn image_scarp(hash_map: &HashMap<String,String>) -> color_eyre::Result<()
             let response = reqwest::get(sn).await.unwrap()
             .bytes().await?;
             let image = image::load_from_memory(&response)?;
-            let name = format!("../images/{iter}.jpg");
+            let name = format!("{images_folder}/{iter} 23.jpg");
             File::create(&name)?;
             image.save(name).unwrap();
             
@@ -88,11 +103,18 @@ async fn image_scarp(hash_map: &HashMap<String,String>) -> color_eyre::Result<()
 fn main() {
     // The use of color_eyre gives much nicer error reports, including making
     // it much easier to locate where the error occurred.
-    let filepath: &str = r"C:\Users\Gurman\Documents\Rust\geoint_76\media\streets.txt";
-    let reader = read_file(filepath).expect("Error occured");
-    let mapa = dict_processing(reader).unwrap();
+    let streets: &str = r"C:\Users\Gurman\Documents\Rust\geoint_76\media\streets.txt"; // где храняться названия всех улиц 
+    let images: &str = "images";// каталог для сохранения картинок
+    let steetlinks: &str = "streetlinks.txt"; // куда записывать сформированные ссылки 
+
+    let files = Files::new(steetlinks.to_string(),streets.to_string(), images.to_string());// мы создаем экземпляр класса  Files
+    
+    let reader = read_file(&files.all_streets).expect("Error occured");
+    let mapa = dict_processing(reader,&files.links).unwrap();
     // let steetlinks = "streetlinks.txt";
     println!("{}",mapa.len());
-    image_scarp(&mapa).expect("Error");
+    image_scarp(&mapa, &files.store).expect("Error");
+    
+    println!("{:#?}", files);
 
 }
